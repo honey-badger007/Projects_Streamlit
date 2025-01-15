@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 
-uploaded_file= r"data/car_crashes.csv"
+uploaded_file= r"Project_Car_crashes/data/car_crashes.csv"
 
 
 
