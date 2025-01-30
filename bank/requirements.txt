@@ -3,6 +3,7 @@ numpy
 matplotlib
 seaborn
 streamlit
+sklearn.model_selection
 train_test_split
 OrdinalEncoder
 BinaryEncoder
