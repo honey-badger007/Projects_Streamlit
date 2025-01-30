@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 with open("styles.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
-uploaded_file= r"data\bank.csv"
+uploaded_file= r"bank/data/bank.csv"
 
 
 #  streamlit run tips_dashboard.py 
