@@ -3,7 +3,3 @@ numpy
 matplotlib
 seaborn
 streamlit
-OrdinalEncoder
-BinaryEncoder
-LabelEncoder
-MinMaxScaler
