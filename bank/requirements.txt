@@ -3,3 +3,8 @@ numpy
 matplotlib
 seaborn
 streamlit
+train_test_split
+OrdinalEncoder
+BinaryEncoder
+LabelEncoder
+MinMaxScaler
