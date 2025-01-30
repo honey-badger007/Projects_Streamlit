@@ -5,7 +5,7 @@ import seaborn as sns
 import streamlit as st
 from sklearn.model_selection import train_test_split
 
-with open("styles.css") as f:
+with open("bank/styles.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 uploaded_file= r"bank/data/bank.csv"
