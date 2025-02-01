@@ -4,12 +4,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 
-
 with open("project_Tips/styles.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 uploaded_file= r"project_Tips/data/tips.csv"
-
 
 #  streamlit run tips_dashboard.py 
 
@@ -47,7 +45,104 @@ elif option == "Unique Values":
     st.dataframe(data.nunique())
 
 #Data Visualization
-st.header("*Data Visualization*")
+st.header("*Exploraty Data Analysis*")
+
+
+
+st.subheader("**1 - Univariate Analysis**")
+
+# Select Column
+selected_column = st.selectbox("Select a Column for Analysis", data.columns)
+
+if selected_column:
+    st.markdown(f"#### Analysis for {selected_column}")  
+    col1, col2 = st.columns(2)
+    with col1:
+        # Additional Stats for Numeric Columns
+        if pd.api.types.is_numeric_dtype(data[selected_column]):
+            # Calculate statistics
+            column_data = data[selected_column].dropna()  # Remove NaNs
+            mean_val = column_data.mean()
+            median_val = column_data.median()
+            std_val = column_data.std()
+            min_val = column_data.min()
+            max_val = column_data.max()
+            mode_val = column_data.mode().values
+            with col1:
+                st.write("**Histogram plot parameters**")
+                # Create the plot
+                fig, ax = plt.subplots()
+                ax.set_title(f"Distribution of {selected_column}", fontsize=16, fontweight="bold")
+                ax.set_xlabel(f"{selected_column}", fontsize=12)
+                ax.set_ylabel("Frequency", fontsize=12)
+                ax.grid(visible=True, linestyle="--", alpha=0.7)
+                log_scale = st.checkbox("Log Scale", key="dist_log_scale")
+                show_kde = st.checkbox("Show KDE", value=True, key="dist_kde")
+                plot_color = st.color_picker("Pick Plot Color", "#4CAF50", key="dist_color")
+                bin_size = st.slider("Number of Bins", min_value=5, max_value=50, value=20, key="dist_bins")
+                # Summary Statistics
+                st.write("**Summary Statistics:**")
+                st.write(data[selected_column].describe())
+            with col2:
+                st.write("Histogram plot")
+                sns.histplot(data[selected_column],bins=bin_size,color=plot_color,kde=show_kde,log_scale=log_scale,edgecolor="black")
+                # Add statistical annotations
+                stats_text = (
+                    f"Mean: {mean_val:.2f}\n"
+                    f"Median: {median_val:.2f}\n"
+                    f"Std Dev: {std_val:.2f}\n"
+                    f"Min: {min_val:.2f}\n"
+                    f"Max: {max_val:.2f}\n"
+                    f"Mode:{mode_val}"
+                )
+                ax.text(
+                    0.95, 0.95, stats_text,
+                    transform=ax.transAxes,
+                    fontsize=12,
+                    verticalalignment='top',
+                    horizontalalignment='right',
+                    bbox=dict(boxstyle="round", facecolor="white", alpha=0.8)
+                )
+                st.pyplot(fig)
+
+
+                # Box Plot
+                st.write("**Box Plot:**")
+                fig, ax = plt.subplots()
+                sns.boxplot(x=data[selected_column], color="lightgreen")
+                st.pyplot(fig)
+
+                # line Plot
+                st.write("**line Plot:**")
+                fig, ax = plt.subplots()
+                sns.lineplot(data[selected_column])
+                st.pyplot(fig)
+
+    # Analysis for Categorical Columns
+        else:
+            with col1:
+                # Summary Statistics
+                st.write("**Summary Statistics:**")
+                st.write(data[selected_column].describe())
+                st.write(f"Mode: {data[selected_column].mode().values}")
+                st.write("**Value Counts:**")
+                st.write(data[selected_column].value_counts())
+            with col2:
+
+                # Bar Plot
+                st.write("**Bar Plot:**")
+                fig, ax = plt.subplots()
+                sns.countplot(x=selected_column, data=data, order=data[selected_column].value_counts().index)
+                st.pyplot(fig)
+                
+                # Pie Chart
+                st.write("**Pie Chart:**")
+                fig, ax = plt.subplots()
+                data[selected_column].value_counts().plot.pie(autopct='%1.2f%%')
+                st.pyplot(fig)
+
+
+st.subheader("2 - Bivariate Analysis")
 
 # Initialize session state for visualization type and user selections
 if "visu1" not in st.session_state:
@@ -56,15 +151,16 @@ if "visu2" not in st.session_state:
     st.session_state.visu2 = False
 if "visu3" not in st.session_state:
     st.session_state.visu3 = False
-# Layout for Visualization Type Selection
-col1, col2, col3 = st.columns([1, 1, 1])
+
+# Create three columns for different bivariate analyses
+col1, col2, col3 = st.columns(3)
 with col1:
-    if st.button("Numeric Data Visualization"):
+    if st.button("Numeric vs Numeric"):
         st.session_state.visu1 = True
         st.session_state.visu2 = False
         st.session_state.visu3 = False
 with col2:
-    if st.button("Categorical Data Visualization"):
+    if st.button("Categorical vs Categorical"):
         st.session_state.visu1 = False
         st.session_state.visu2 = True
         st.session_state.visu3 = False
@@ -73,177 +169,142 @@ with col3:
         st.session_state.visu1 = False
         st.session_state.visu2 = False
         st.session_state.visu3 = True
-#Numerical Visualization
+
+# **1. Numeric vs Numeric**
 if st.session_state.visu1:
     with col1:
-        st.subheader("Numeric Data Visualization")
-        st.write("select coloums for visualizations")
-        x_axis = st.selectbox("Select X-Axis (Numeric)", num_data.columns)
-        y_axis = st.selectbox("Select Y-Axis (Numeric)", num_data.columns)
-        plot_tybe=st.radio("select plot type: ",["Histogram plot","Line plot","Scatter plot","Box plot"])
     
-    if plot_tybe=="Histogram plot":
-        with col1:
-            bin_size = st.slider("Number of Bins", min_value=5, max_value=50, value=20, key="dist_bins")
-        fig=plt.figure()
-        st.title("Histogram plot")
-        sns.histplot(data[x_axis],bins=bin_size,color="blue",edgecolor="black")
-        st.pyplot(fig)
+        x_var = st.selectbox("Select X-axis Variable (Numeric)", num_data.columns, key="num_x")
+        y_var = st.selectbox("Select Y-axis Variable (Numeric)", num_data.columns, key="num_y")
 
+        if x_var and y_var:
+            st.subheader(f"Analysis between {x_var} and {y_var}")
+            correlation = data[[x_var, y_var]].corr().iloc[0, 1]
+            st.write(f"**Correlation Coefficient:** {correlation:.2f}")
 
-    elif plot_tybe=="Line plot":
-        fig=plt.figure()
-        st.title("Line plot")
-        with col1:
-            hue_axis = st.selectbox("Select Hue (Categorical)", cat_data.columns)
-        sns.lineplot(x=x_axis,y=y_axis,hue=hue_axis,data=data)
-        st.pyplot(fig)
+    fig, ax = plt.subplots()
+    sns.scatterplot(x=x_var, y=y_var, data=data)
+    st.pyplot(fig)
 
-    elif plot_tybe=="Scatter plot":
-        fig=plt.figure()
-        st.title("Scatter plot")
-        with col1:
-            hue_axis = st.selectbox("Select Hue (Categorical)", cat_data.columns)
-        sns.scatterplot(x=x_axis,y=y_axis,hue=hue_axis,data=data)
-        st.pyplot(fig)
-
-    elif plot_tybe=="Box plot":
-        fig=plt.figure()
-        st.title("Box plot")
-        with col1:
-            hue_axis = st.selectbox("Select Hue (Categorical)", cat_data.columns)
-        sns.boxplot(y=x_axis,hue=hue_axis,data=data,palette="flare")
-        plt.tight_layout()
-        st.pyplot(fig)
-# categorical data visualization
-elif st.session_state.visu2:
+# **2. Categorical vs Categorical**
+if st.session_state.visu2:
     with col2:
-        st.subheader("Categorical Data Visualization")
-        st.write("select coloums for visualizations")
-        x_axis = st.selectbox("Select X-Axis (Categorical)", cat_data.columns)
-        y_axis = st.selectbox("Select Y-Axis (Categorical)", cat_data.columns)
-        plot_tybe=st.radio("select plot type: ",["Histogram plot","Bar plot","Box plot","Pie plot","Count plot"])
+        x_var = st.selectbox("Select First Categorical Variable", cat_data.columns, key="cat_x")
+        y_var = st.selectbox("Select Second Categorical Variable", cat_data.columns, key="cat_y")
+    fig, ax = plt.subplots()
+    st.write(f"Bar plot between {x_var} and {y_var}")
+    with col2:
+        hue_axis = st.selectbox("Select Hue (Categorical)", cat_data.columns)
+    sns.barplot(x=x_var,y=y_var,hue=hue_axis,data=data)
+    st.pyplot(fig)
 
-    if plot_tybe=="Histogram plot":
-        fig=plt.figure()
-        st.title("Histogram plot")
-        sns.histplot(data[x_axis],bins=5,color="blue",edgecolor="black")
-        st.pyplot(fig)
-
-    elif plot_tybe=="Bar plot":
-        fig=plt.figure()
-        st.title("Bar plot")
-        with col2:
-            hue_axis = st.selectbox("Select Hue (Categorical)", cat_data.columns)
-        sns.barplot(x=x_axis,y=y_axis,hue=hue_axis,data=data)
-        st.pyplot(fig)
-
-    elif plot_tybe=="Box plot":
-        fig=plt.figure()
-        st.title("Box plot")
-        with col2:
-            hue_axis = st.selectbox("Select Hue (Categorical)", cat_data.columns)
-        sns.boxplot(x=x_axis,y=y_axis,hue=hue_axis,data=data,palette="flare")
-        plt.tight_layout()
-        st.pyplot(fig)
-
-    elif plot_tybe=="Pie plot":
-        fig=plt.figure()
-        st.title("Pie plot")
-        plt.pie(data[x_axis].value_counts(),autopct='%1.2f%%',labels=data[x_axis].unique())
-        st.pyplot(fig)
-
-    elif plot_tybe=="Count plot":
-        fig=plt.figure()
-        st.title("Count plot")
-        with col2:
-            hue_axis = st.selectbox("Select Hue (Categorical)", cat_data.columns)
-        sns.countplot(x=x_axis,data=data,hue=hue_axis)
-        st.pyplot(fig)
-# Categorical VS Numerical
-elif st.session_state.visu3:
-    with col3:
-        st.subheader("Categorical VS Numerical")
-        st.write("select coloums for visualizations")
-        x_axis = st.selectbox("Select X-Axis (Categorical)", cat_data.columns)
-        y_axis = st.selectbox("Select Y-Axis (Numeric)", num_data.columns)
-        plot_tybe=st.radio("select plot type: ",["Bar plot","Box plot","Count plot"])
-
-    if plot_tybe=="Bar plot":
-        fig=plt.figure()
-        st.title("Bar plot")
-        with col3:
-            hue_axis = st.selectbox("Select Hue (Categorical)", cat_data.columns)
-        sns.barplot(x=x_axis,y=y_axis,hue=hue_axis,data=data)
-        st.pyplot(fig)
-
-    elif plot_tybe=="Box plot":
-        fig=plt.figure()
-        st.title("Box plot")
-        with col3:
-            hue_axis = st.selectbox("Select Hue (Categorical)", cat_data.columns)
-        sns.boxplot(x=x_axis,y=y_axis,hue=hue_axis,data=data,palette="flare")
-        plt.tight_layout()
-        st.pyplot(fig)
-
-    elif plot_tybe=="Pie plot":
-        fig=plt.figure()
-        st.title("Pie plot")
-        plt.pie(data[x_axis].value_counts(),autopct='%1.2f%%',labels=data[x_axis].unique())
-
-        st.pyplot(fig)
-
-    elif plot_tybe=="Count plot":
-        fig=plt.figure()
-        st.title("Count plot")
-        with col3:
-            hue_axis = st.selectbox("Select Hue (Categorical)", cat_data.columns)
-        sns.countplot(x=x_axis,data=data,hue=hue_axis)
-        st.pyplot(fig)
+    if x_var and y_var:
+            st.write(f"Cross-tabulation between {x_var} and {y_var}")
+            crosstab = pd.crosstab(data[x_var], data[y_var])
+            st.write(crosstab)
+    fig, ax = plt.subplots()
+    sns.heatmap(crosstab, annot=True, cmap="coolwarm", fmt="d")
+    st.pyplot(fig)
     
-# ******* others plot *******
-st.header("*Other Plots*")
+    
 
+# **3. Categorical vs Numeric**
+if st.session_state.visu3:
+    with col3:
+        cat_var = st.selectbox("Select Categorical Variable", cat_data.columns, key="cat_var")
+        num_var = st.selectbox("Select Numeric Variable", num_data.columns, key="num_var")
+        hue_axis = st.selectbox("Select Hue (Categorical)", cat_data.columns)
+
+
+    if cat_var and num_var:
+        st.write(f"Box Plot between {cat_var} and {num_var}")
+    fig, ax = plt.subplots()
+    sns.boxplot(x=cat_var, y=num_var,hue=hue_axis, data=data,palette="flare")
+    st.pyplot(fig)
+        
+    st.write(f"Bar plot between {cat_var} and {num_var}")
+    fig, ax = plt.subplots()
+    sns.barplot(x=cat_var,y=num_var,hue=hue_axis,data=data)
+    st.pyplot(fig)
+
+
+st.subheader("3 - Multivariate Analysis")
 
 if "f1" not in st.session_state:
     st.session_state.f1 = False
 if "f2" not in st.session_state:
     st.session_state.f2 = False
+if "f3" not in st.session_state:
+    st.session_state.f3 = False
 
-col1, col2 = st.columns([2,2])
-
+col1, col2,col3 = st.columns(3)
 with col1:
-    if st.button("Joint plot"):
+    if st.button("Generate Correlation Heatmap"):
         st.session_state.f1 = True
         st.session_state.f2 = False
+        st.session_state.f3 = False
 with col2:
-    if st.button("Pair Plot"):
+    if st.button("Generate Pair Plot"):
         st.session_state.f1 = False
         st.session_state.f2 = True
-
-#jointplot
+        st.session_state.f3 = False
+with col3:
+    if st.button("Generate Multivariate Box Plot"):
+        st.session_state.f1 = False
+        st.session_state.f2 = False
+        st.session_state.f3 = True
 if st.session_state.f1:
-    with col1:
-        st.subheader("*Joint plot*")
-        st.write("select coloums for joint plot")
-        x_axis = st.selectbox("Select X-axis", num_data.columns)
-        y_axis = st.selectbox("Select Y-axis", num_data.columns)
-        st.write("select kind for joint plot")
-        kind_axis = st.selectbox("Select kind", ["reg", "resid"])
-    with sns.axes_style("white"):
-        jointplot_fig = sns.jointplot(x=x_axis, y=y_axis, data=data, kind=kind_axis)
-    st.pyplot(jointplot_fig)
-# Pair Plot Section
-
-elif st.session_state.f2:
-    with col2:
-        st.subheader("*Pair Plot*")
-    if num_data.empty:
-        st.warning("No numeric data available to generate a pair plot.")
+    # Correlation Heatmap for Numeric Data
+    if num_data.shape[1] >= 2:
+        fig, ax = plt.subplots(figsize=(10, 8))
+        sns.heatmap(num_data.corr(), annot=True, cmap="coolwarm", fmt=".2f", linewidths=0.5)
+        st.pyplot(fig)
     else:
-        with sns.axes_style("white"):
-            pairplot_fig = sns.pairplot(num_data) 
-            st.pyplot(pairplot_fig)  
+        st.warning("Not enough numeric columns for correlation heatmap.")
+
+# Pair Plot for Multiple Variables
+if st.session_state.f2:
+    if num_data.shape[1] >= 2:
+        fig = sns.pairplot(num_data, diag_kind="kde", markers="o", corner=True)
+        st.pyplot(fig)
+    else:
+        st.warning("Not enough numeric columns for pair plot.")
+
+
+        # Multivariate Box Plot for Categorical Influence
+num_cols=num_data.columns
+if st.session_state.f3:
+    with col3:
+        cat_col = st.selectbox("Select a Categorical Column (Hue)", cat_data.columns if not cat_data.empty else [None])
+        num_cols = st.multiselect("Select Numeric Columns", num_data.columns)
+
+if st.session_state.f3 and cat_col and len(num_cols) >= 2:
+    fig, axs = plt.subplots(len(num_cols), 1, figsize=(10, 5 * len(num_cols)))
+    for i, col in enumerate(num_cols):
+        sns.boxplot(x=cat_col, y=col, data=data, ax=axs[i])
+        axs[i].set_title(f"Box Plot of {col} by {cat_col}")
+    st.pyplot(fig)
+elif len(num_cols) < 2:
+    st.warning("Please select at least two numeric columns for multivariate box plots.")
+
+
+
+
+
+
+
+# ******* others plot *******
+st.header("*linear regression *")
+st.subheader("*Joint plot*")
+st.write("select coloums for joint plot")
+x_axis = st.selectbox("Select X-axis", num_data.columns)
+y_axis = st.selectbox("Select Y-axis", num_data.columns)
+st.write("select kind for joint plot")
+kind_axis = st.selectbox("Select kind", ["reg", "resid"])
+with sns.axes_style("white"):
+    jointplot_fig = sns.jointplot(x=x_axis, y=y_axis, data=data, kind=kind_axis)
+st.pyplot(jointplot_fig)
+
 
 
 
