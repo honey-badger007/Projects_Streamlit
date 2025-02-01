@@ -343,10 +343,10 @@ if st.session_state.stat1:
     with col1:
         st.subheader("*Distribution Plot*")
         selected_column = st.selectbox("Select a Numeric Column", num_data.columns, key="dist-col")
-        log_scale = st.checkbox("Log Scale", key="dist-log_scale")
-        bin_size = st.slider("Number of Bins", min_value=5, max_value=50, value=20, key="dist-bin_size")
-        show_kde = st.checkbox("Show KDE", value=True, key="dist-kde")
-        plot_color = st.color_picker("Pick Plot Color", "#4CAF50", key="dist-color")
+        log_scale1 = st.checkbox("Log Scale", key="dist-log_scale")
+        bin_size1 = st.slider("Number of Bins", min_value=5, max_value=50, value=20, key="dist-bin_size")
+        show_kde1 = st.checkbox("Show KDE", value=True, key="dist-kde")
+        plot_color1 = st.color_picker("Pick Plot Color", "#4CAF50", key="dist-color")
     if selected_column:
         # Calculate statistics
         column_data = data[selected_column].dropna()  # Remove NaNs
@@ -360,10 +360,10 @@ if st.session_state.stat1:
         fig, ax = plt.subplots(figsize=(10, 6))
         sns.histplot(
             column_data,
-            bins=bin_size,
-            kde=show_kde,
-            log_scale=log_scale,
-            color=plot_color,
+            bins=bin_size1,
+            kde=show_kde1,
+            log_scale=log_scale1,
+            color=plot_color1,
             ax=ax
         )
         ax.set_title(f"Distribution of {selected_column}", fontsize=16, fontweight="bold")
