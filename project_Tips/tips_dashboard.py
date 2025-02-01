@@ -342,11 +342,11 @@ with col3:
 if st.session_state.stat1:
     with col1:
         st.subheader("*Distribution Plot*")
-        selected_column = st.selectbox("Select a Numeric Column", num_data.columns, key="dist_col")
-        log_scale = st.checkbox("Log Scale", key="dist_log_scale")
-        bin_size = st.slider("Number of Bins", min_value=5, max_value=50, value=20, key="dist_bin_size")
-        show_kde = st.checkbox("Show KDE", value=True, key="dist_kde")
-        plot_color = st.color_picker("Pick Plot Color", "#4CAF50", key="dist_color")
+        selected_column = st.selectbox("Select a Numeric Column", num_data.columns, key="dist-col")
+        log_scale = st.checkbox("Log Scale", key="dist-log_scale")
+        bin_size = st.slider("Number of Bins", min_value=5, max_value=50, value=20, key="dist-bin_size")
+        show_kde = st.checkbox("Show KDE", value=True, key="dist-kde")
+        plot_color = st.color_picker("Pick Plot Color", "#4CAF50", key="dist-color")
     if selected_column:
         # Calculate statistics
         column_data = data[selected_column].dropna()  # Remove NaNs
