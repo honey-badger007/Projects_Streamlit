@@ -2,12 +2,21 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 import pickle
+import lightgbm
 
 with open("APP_food_waste/styles.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
     
-# Load the trained model
-GBR = pickle.load(open("APP_food_waste/Gradient_boosting_reg.pkl", "rb"))
+model_path = "APP_food_waste/Gradient_boosting_reg.pkl"
+
+try:
+    with open(model_path, "rb") as model_file:
+        GBR = pickle.load(model_file)
+    print("Model loaded successfully!")
+except ModuleNotFoundError as e:
+    print(f"Missing module: {e.name}. Please install it in requirements.txt")
+except Exception as e:
+    print(f"An error occurred: {e}")
 
 st.title("Food Waste Prediction App")
 st.write("## Enter details to predict the amount of food waste")
