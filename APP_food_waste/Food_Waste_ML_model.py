@@ -5,12 +5,9 @@ import pickle
 
 with open("APP_food_waste/styles.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
-
-
-
-# Load trained model
-with open("APP_food_waste/Gradient_boosting_reg.pkl", "rb") as model_file:
-    GBR = pickle.load(model_file)
+    
+# Load the trained model
+GBR = pickle.load(open("Gradient_boosting_reg.pkl", "rb"))
 
 st.title("Food Waste Prediction App")
 st.write("## Enter details to predict the amount of food waste")
