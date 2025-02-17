@@ -8,7 +8,6 @@ import pickle
 st.set_page_config(page_title="Food Waste Prediction", layout="wide")
 
 st.sidebar.title("Navigation")
-st.sidebar.page_link("Food_waste_app.py")
 st.sidebar.page_link("Food_waste/pages/prediction.py", label="🔮 Food Waste Prediction")
 st.sidebar.page_link("Food_waste/pages/visualization.py", label="📊 Data Visualization")
 
