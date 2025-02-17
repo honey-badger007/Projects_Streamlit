@@ -20,3 +20,4 @@ st.write(
     - 🔮 **Food Waste Prediction**: Predict food waste based on input data.
     - 📊 **Data Visualization**: Explore and analyze the dataset visually.
     """
+)
