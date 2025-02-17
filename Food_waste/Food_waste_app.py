@@ -9,8 +9,8 @@ st.set_page_config(page_title="Food Waste Prediction", layout="wide")
 
 st.sidebar.title("Navigation")
 st.sidebar.page_link("Food_waste_app.py", label="🏠 Home", icon="🏡")
-st.sidebar.page_link("pages/visualization.py", label="📈 Data Visualization", icon="📊")
 st.sidebar.page_link("pages/prediction.py", label="📊 Food Waste Prediction", icon="🔮")
+st.sidebar.page_link("pages/visualization.py", label="📈 Data Visualization", icon="📊")
 
 
 st.title("Welcome to the Food Waste Analysis & Prediction App!")
