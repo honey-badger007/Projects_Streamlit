@@ -6,10 +6,10 @@ import streamlit as st
 
 
 
-with open("styles.css") as f:
+with open("Food_waste/styles.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
-uploaded_file= r"data\train.csv"
+uploaded_file= r"Food_waste/data/train.csv"
 df1 = pd.read_csv(uploaded_file)
 
 
