@@ -1,8 +1,0 @@
-pandas
-numpy
-scikit-learn
-streamlit
-matplotlib
-seaborn
-lightgbm  # Add if trained with LightGBM
-xgboost  # Add if trained with XGBoost
