@@ -5,7 +5,7 @@ import seaborn as sns
 import streamlit as st
 import pickle
 
-#st.set_page_config(page_title="Food Waste Prediction", layout="wide")
+st.set_page_config(page_title="Food Waste Prediction", layout="wide")
 
 st.sidebar.title("Navigation")
 st.sidebar.page_link("Food_waste_app.py", label="🏠 Home", icon="🏡")
