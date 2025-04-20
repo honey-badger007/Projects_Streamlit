@@ -1,0 +1,1001 @@
+Crash Speed (km/h),Impact Angle (degrees),Airbag Deployed,Seatbelt Used,Weather Conditions,Road Conditions,Crash Type,Vehicle Type,Vehicle Age (years),Brake Condition,Tire Condition,Driver Age,Driver Experience (years),Alcohol Level (BAC%),Distraction Level,Time of Day,Traffic Density,Visibility Distance (m),Severity
+68,61,No,Yes,Rain,Uneven,Rear-end,Truck,5,Worn out,Good,75,17,0.09004685747785086,None,Night,Low,111,Minor Injury
+143,13,Yes,Yes,Clear,Dry,Rear-end,Truck,1,Good,Good,41,32,0.00021101851569176324,Other,Afternoon,Medium,326,Minor Injury
+147,147,Yes,Yes,Snow,Dry,Rear-end,Sedan,8,Good,Good,21,32,0.060945320745808676,None,Afternoon,High,462,Minor Injury
+176,35,Yes,Yes,Fog,Wet,Side impact,Motorcycle,6,Good,Good,49,33,0.15603043892447194,None,Afternoon,High,399,Severe Injury
+165,94,Yes,Yes,Rain,Dry,Rear-end,SUV,9,Good,Good,41,38,0.11229549818264235,None,Morning,Medium,395,Minor Injury
+154,13,No,No,Clear,Dry,Side impact,Sedan,3,Good,Good,33,27,0.15701704344996453,None,Morning,Low,22,Minor Injury
+26,47,No,Yes,Clear,Wet,Head-on,Sedan,8,Good,Good,44,14,0.11824805979492002,None,Afternoon,Medium,433,Minor Injury
+168,171,No,Yes,Fog,Dry,Rear-end,SUV,14,Good,Good,63,18,0.04325981286473921,None,Night,Low,300,Severe Injury
+179,131,Yes,Yes,Clear,Dry,Head-on,Sedan,11,Good,Worn out,47,24,0.15970528942083798,None,Afternoon,High,155,Severe Injury
+25,16,Yes,No,Clear,Icy,Side impact,Sedan,9,Good,Worn out,71,20,0.17428600956414833,Phone,Morning,High,97,Minor Injury
+149,18,No,Yes,Clear,Uneven,Rear-end,Sedan,9,Good,Good,30,13,0.024115195002040048,None,Afternoon,Low,267,Minor Injury
+180,85,Yes,Yes,Fog,Dry,Rear-end,Truck,15,Worn out,Good,55,26,0.1186458122484019,Other,Morning,Low,205,Fatal
+94,107,Yes,Yes,Clear,Wet,Rear-end,SUV,15,Worn out,Worn out,32,43,0.19353500072070434,None,Morning,Medium,358,Severe Injury
+145,163,Yes,Yes,Clear,Dry,Head-on,SUV,1,Good,Good,72,48,0.09300849953838049,None,Night,Low,126,Severe Injury
+44,149,No,No,Clear,Icy,Rear-end,Motorcycle,5,Good,Worn out,63,12,0.09800282111153769,Phone,Night,Medium,420,Minor Injury
+174,145,No,Yes,Fog,Wet,Side impact,SUV,7,Good,Worn out,26,45,0.18180805232607747,None,Afternoon,Low,145,Fatal
+160,38,Yes,No,Clear,Dry,Head-on,Truck,3,Worn out,Good,76,41,0.17612468849715204,None,Afternoon,High,46,Minor Injury
+64,25,Yes,Yes,Rain,Dry,Rear-end,Sedan,13,Good,Good,31,7,0.13507658654612806,None,Afternoon,High,193,Minor Injury
+150,154,Yes,Yes,Fog,Dry,Rollover,SUV,4,Good,Good,36,21,0.17520867675635604,Phone,Night,Medium,295,Minor Injury
+87,11,Yes,Yes,Rain,Dry,Rollover,SUV,6,Good,Good,67,1,0.036809625559106565,None,Afternoon,High,471,Minor Injury
+171,140,Yes,Yes,Fog,Dry,Side impact,Truck,4,Good,Good,29,49,0.09695993475386694,None,Morning,Low,263,Minor Injury
+194,114,Yes,Yes,Clear,Dry,Side impact,Sedan,5,Good,Good,55,2,0.1815487374664131,None,Afternoon,Medium,422,Minor Injury
+152,14,Yes,Yes,Clear,Dry,Rollover,Sedan,8,Good,Good,35,46,0.04922123312647071,Phone,Night,Medium,144,Minor Injury
+63,26,No,Yes,Clear,Dry,Rear-end,Truck,8,Good,Good,55,45,0.084269446814528,None,Night,Medium,434,Minor Injury
+76,141,No,Yes,Clear,Dry,Rear-end,Sedan,17,Good,Good,76,10,0.17355701297402484,None,Morning,Medium,73,Severe Injury
+63,133,No,Yes,Rain,Dry,Side impact,Sedan,17,Good,Good,48,49,0.0549556883189152,Phone,Afternoon,Medium,329,Minor Injury
+188,170,Yes,No,Clear,Dry,Rollover,Truck,19,Good,Good,79,6,0.08661282351826122,None,Night,Low,162,Minor Injury
+180,132,Yes,Yes,Clear,Uneven,Side impact,Sedan,5,Good,Good,75,44,0.19438475172493733,Drowsiness,Afternoon,Low,249,Minor Injury
+198,67,Yes,Yes,Clear,Dry,Rollover,Motorcycle,7,Good,Good,39,10,0.14211528936294499,Other,Night,Low,58,Minor Injury
+197,102,Yes,Yes,Clear,Dry,Head-on,Truck,13,Good,Good,74,15,0.002323460436533642,Phone,Night,Medium,461,Minor Injury
+27,46,Yes,Yes,Rain,Dry,Rear-end,Truck,19,Good,Good,28,41,0.19238083182476812,None,Night,Low,256,Minor Injury
+189,16,Yes,Yes,Clear,Dry,Side impact,Truck,19,Good,Good,45,8,0.08515738198346874,Phone,Afternoon,Medium,243,Minor Injury
+39,48,Yes,Yes,Clear,Dry,Side impact,SUV,12,Worn out,Good,54,5,0.05200930496552572,None,Night,Low,212,Minor Injury
+196,149,Yes,Yes,Fog,Dry,Rear-end,Truck,2,Worn out,Good,43,21,0.17008438272899054,None,Morning,High,77,Fatal
+82,98,Yes,Yes,Snow,Dry,Side impact,SUV,18,Good,Good,79,46,0.07092492038688647,Drowsiness,Afternoon,Low,217,Minor Injury
+98,56,Yes,Yes,Rain,Dry,Rollover,Motorcycle,6,Good,Good,18,10,0.0893115819441801,Phone,Afternoon,Medium,385,Minor Injury
+49,10,No,Yes,Rain,Dry,Head-on,SUV,6,Good,Good,21,41,0.07028515109480597,None,Morning,Medium,465,Minor Injury
+176,171,Yes,Yes,Clear,Dry,Rear-end,Sedan,6,Good,Worn out,35,5,0.11976983035104011,None,Afternoon,High,485,Minor Injury
+147,125,Yes,Yes,Clear,Dry,Rollover,SUV,12,Good,Worn out,46,15,0.032796320799118275,Phone,Afternoon,Low,89,Severe Injury
+28,130,No,Yes,Fog,Dry,Side impact,Sedan,0,Good,Good,73,25,0.17398648912758222,None,Morning,Medium,206,Severe Injury
+55,170,Yes,Yes,Snow,Uneven,Rear-end,Sedan,14,Good,Good,35,31,0.18021018093750904,Other,Afternoon,Low,87,Minor Injury
+188,127,Yes,Yes,Clear,Dry,Rear-end,Motorcycle,1,Good,Good,67,5,0.11875663298679667,Other,Night,Low,151,Minor Injury
+78,59,Yes,Yes,Fog,Icy,Head-on,SUV,10,Good,Worn out,33,4,0.03678388291036925,None,Night,Medium,226,Minor Injury
+153,64,Yes,Yes,Rain,Wet,Rear-end,Sedan,16,Good,Good,71,48,0.15073663779564897,None,Morning,High,171,Minor Injury
+140,122,No,No,Clear,Uneven,Rear-end,Sedan,16,Good,Good,77,15,0.019539549956686632,None,Afternoon,Medium,60,Minor Injury
+114,126,No,Yes,Rain,Wet,Side impact,Motorcycle,19,Good,Good,48,27,0.19506306338323548,None,Night,Low,393,Minor Injury
+32,135,Yes,No,Rain,Wet,Side impact,Truck,18,Good,Good,66,26,0.1345467604401974,Drowsiness,Afternoon,High,286,Minor Injury
+45,53,Yes,No,Clear,Dry,Head-on,Sedan,8,Good,Good,44,24,0.0685821513081184,None,Night,Low,123,Severe Injury
+139,61,No,Yes,Clear,Dry,Rear-end,Motorcycle,9,Worn out,Good,26,47,0.13890214910329948,Drowsiness,Afternoon,Medium,23,Minor Injury
+148,0,Yes,No,Clear,Icy,Rear-end,Truck,9,Good,Good,28,12,0.07561938773425114,None,Afternoon,High,259,Minor Injury
+38,98,Yes,No,Rain,Dry,Head-on,Sedan,3,Good,Worn out,64,14,0.18540817973183152,None,Morning,Medium,435,Minor Injury
+196,19,No,Yes,Clear,Dry,Rear-end,SUV,14,Worn out,Good,24,15,0.04182150239133611,None,Night,Medium,262,Severe Injury
+183,164,Yes,Yes,Fog,Dry,Side impact,SUV,6,Good,Good,43,10,0.13393935911951746,Other,Afternoon,Medium,67,Fatal
+162,23,No,Yes,Clear,Dry,Head-on,SUV,5,Good,Good,40,12,0.18922258305579187,None,Morning,Medium,249,Minor Injury
+134,84,Yes,No,Rain,Dry,Rollover,Motorcycle,7,Good,Good,52,6,0.13084824951353738,Phone,Afternoon,Medium,163,Minor Injury
+147,76,Yes,Yes,Rain,Icy,Side impact,SUV,4,Worn out,Good,50,25,0.06516032493657065,None,Night,Medium,119,Severe Injury
+42,29,Yes,Yes,Clear,Dry,Rear-end,Truck,11,Good,Good,41,37,0.11640049245619372,Drowsiness,Afternoon,Medium,203,Minor Injury
+122,166,Yes,Yes,Rain,Icy,Head-on,Sedan,14,Good,Good,72,19,0.036529255894039415,None,Morning,Medium,61,Severe Injury
+48,164,No,Yes,Fog,Wet,Side impact,SUV,10,Good,Good,32,40,0.1798291690553623,Other,Morning,High,178,Minor Injury
+141,18,Yes,Yes,Clear,Dry,Rollover,Truck,15,Good,Good,26,45,0.1017329295849387,Drowsiness,Night,Medium,113,Minor Injury
+44,60,Yes,Yes,Clear,Dry,Side impact,SUV,12,Good,Good,62,15,0.01784561560226161,None,Afternoon,Medium,61,Minor Injury
+157,1,Yes,Yes,Rain,Dry,Head-on,SUV,8,Worn out,Good,55,25,0.047814752118423454,None,Afternoon,Medium,152,Minor Injury
+139,163,Yes,No,Clear,Dry,Side impact,Sedan,4,Good,Worn out,53,35,0.1086959897240025,Other,Morning,Low,495,Severe Injury
+136,110,Yes,No,Clear,Dry,Side impact,SUV,8,Good,Good,71,17,0.16524793011337635,Phone,Night,High,442,Minor Injury
+40,138,Yes,Yes,Clear,Dry,Side impact,Truck,8,Good,Good,45,4,0.18263960493844475,Phone,Night,Low,75,Minor Injury
+46,161,Yes,Yes,Clear,Wet,Rear-end,Truck,18,Good,Good,32,11,0.14576732565599523,Other,Afternoon,Medium,232,Severe Injury
+150,105,Yes,Yes,Clear,Dry,Head-on,Sedan,5,Worn out,Good,68,40,0.013026642918386644,Other,Night,High,134,Minor Injury
+88,125,Yes,No,Clear,Dry,Side impact,Sedan,15,Good,Worn out,64,15,0.18908379595136288,None,Night,High,324,Severe Injury
+72,135,No,Yes,Clear,Wet,Head-on,SUV,18,Good,Good,40,47,0.16690259751699288,None,Afternoon,Low,79,Minor Injury
+111,58,Yes,No,Clear,Dry,Head-on,Truck,0,Good,Good,34,21,0.1534666472272272,None,Afternoon,Medium,453,Minor Injury
+31,14,Yes,Yes,Rain,Dry,Rear-end,Sedan,18,Good,Good,63,2,0.1256672033766197,None,Afternoon,Medium,469,Severe Injury
+60,31,Yes,Yes,Clear,Dry,Side impact,Truck,7,Good,Good,66,20,0.08097617468829216,None,Morning,Low,104,Minor Injury
+71,133,Yes,No,Clear,Dry,Rollover,Truck,6,Worn out,Good,32,22,0.13033198080020295,Drowsiness,Afternoon,Low,490,Minor Injury
+134,26,Yes,Yes,Clear,Wet,Head-on,SUV,17,Good,Good,71,8,0.014639401122934693,Phone,Morning,Medium,113,Minor Injury
+20,172,Yes,Yes,Clear,Dry,Head-on,SUV,15,Good,Worn out,57,40,0.13984870400825478,None,Morning,Medium,66,Minor Injury
+38,131,Yes,No,Clear,Wet,Side impact,Sedan,5,Good,Good,26,16,0.012370803577326473,None,Night,Medium,380,Severe Injury
+105,59,Yes,Yes,Fog,Dry,Head-on,Motorcycle,6,Good,Good,31,29,0.05176748051799196,Phone,Morning,Low,249,Minor Injury
+148,165,Yes,Yes,Clear,Dry,Head-on,Sedan,12,Good,Good,43,12,0.15912120982188308,None,Night,Medium,380,Minor Injury
+106,4,No,No,Clear,Icy,Side impact,SUV,7,Good,Worn out,36,46,0.17421206179944473,None,Afternoon,Medium,309,Minor Injury
+30,167,No,No,Clear,Dry,Rear-end,Truck,17,Good,Worn out,19,28,0.17226679155482338,Other,Night,High,378,Minor Injury
+21,106,Yes,Yes,Snow,Dry,Head-on,Sedan,1,Worn out,Good,67,15,0.1059914087774646,None,Afternoon,Low,336,Minor Injury
+87,61,Yes,No,Clear,Dry,Rear-end,Sedan,1,Good,Good,73,14,0.1623934886800943,Drowsiness,Afternoon,Medium,54,Severe Injury
+55,10,Yes,Yes,Clear,Dry,Head-on,Sedan,9,Good,Good,61,28,0.07439227431532665,None,Night,Medium,124,Minor Injury
+119,78,Yes,No,Clear,Uneven,Side impact,SUV,19,Worn out,Good,56,31,0.088463004936687,None,Night,Medium,327,Severe Injury
+173,102,Yes,Yes,Clear,Dry,Head-on,SUV,11,Good,Good,56,45,0.03610374982592992,Other,Morning,Low,391,Severe Injury
+162,95,Yes,Yes,Rain,Dry,Rear-end,Sedan,16,Good,Worn out,62,45,0.17901231134789805,None,Night,High,400,Minor Injury
+94,39,Yes,Yes,Clear,Dry,Head-on,Sedan,15,Good,Good,36,13,0.031398005156952506,Other,Morning,Low,58,Severe Injury
+66,29,Yes,Yes,Snow,Dry,Side impact,SUV,17,Good,Worn out,61,23,0.023871282885776092,Drowsiness,Morning,Low,235,Minor Injury
+174,75,No,Yes,Clear,Dry,Side impact,Truck,13,Good,Good,64,36,0.12451456822713136,Phone,Morning,Medium,42,Minor Injury
+181,175,No,No,Clear,Uneven,Side impact,Sedan,2,Good,Worn out,33,38,0.00914812265619831,None,Night,Medium,409,Minor Injury
+145,5,Yes,No,Snow,Dry,Side impact,SUV,18,Good,Good,70,47,0.1176538991828626,Phone,Morning,Medium,230,Severe Injury
+119,143,Yes,Yes,Snow,Dry,Side impact,Motorcycle,6,Good,Good,50,18,0.013851283661241954,Phone,Afternoon,Medium,469,Minor Injury
+103,151,Yes,Yes,Snow,Dry,Rear-end,Sedan,0,Good,Good,68,42,0.03264705359751761,Phone,Afternoon,Medium,374,Minor Injury
+139,37,No,Yes,Clear,Wet,Rear-end,Sedan,13,Good,Good,67,3,0.021057300641268473,Other,Morning,Low,415,Minor Injury
+180,125,Yes,Yes,Clear,Icy,Rear-end,Motorcycle,9,Good,Worn out,42,31,0.0054365497679453425,None,Afternoon,High,484,Minor Injury
+63,13,Yes,No,Clear,Uneven,Rear-end,SUV,18,Good,Worn out,22,31,0.03145052596223241,Phone,Morning,Medium,486,Minor Injury
+85,101,No,Yes,Rain,Dry,Rear-end,Sedan,7,Good,Good,48,31,0.08565591082901916,Other,Morning,Low,493,Minor Injury
+194,84,Yes,No,Rain,Dry,Side impact,SUV,13,Good,Good,47,44,0.18418539102075293,None,Morning,Low,117,Severe Injury
+27,161,Yes,Yes,Clear,Dry,Rear-end,Motorcycle,10,Good,Good,31,35,0.05014118261810363,Phone,Morning,Low,146,Minor Injury
+130,14,No,Yes,Fog,Uneven,Side impact,Truck,15,Good,Good,35,17,0.15833290734266045,Phone,Morning,Low,22,Minor Injury
+139,20,Yes,Yes,Clear,Dry,Side impact,SUV,12,Good,Good,37,21,0.0506478893302774,None,Night,Low,453,Minor Injury
+194,104,Yes,Yes,Clear,Wet,Side impact,SUV,6,Good,Good,53,28,0.08679273104214079,None,Afternoon,Medium,353,Severe Injury
+44,3,No,Yes,Clear,Dry,Rear-end,SUV,17,Worn out,Good,25,42,0.12669754677989364,None,Morning,Low,29,Minor Injury
+82,162,Yes,Yes,Fog,Wet,Rollover,Sedan,15,Good,Good,26,8,0.18338418433609316,None,Afternoon,Low,343,Severe Injury
+42,111,Yes,Yes,Rain,Dry,Head-on,SUV,19,Worn out,Good,62,37,0.09381259472261849,None,Afternoon,Low,263,Minor Injury
+148,27,Yes,Yes,Clear,Dry,Head-on,Motorcycle,6,Good,Good,59,37,0.15601058474114793,None,Night,Medium,260,Minor Injury
+98,85,Yes,Yes,Rain,Wet,Rear-end,SUV,16,Worn out,Good,23,32,0.12196586337896723,None,Afternoon,Medium,353,Minor Injury
+187,167,Yes,No,Rain,Dry,Side impact,Sedan,17,Good,Good,18,38,0.05551979294695353,None,Afternoon,High,308,Minor Injury
+102,34,Yes,Yes,Clear,Dry,Rear-end,Sedan,2,Good,Good,74,27,0.05316136770420874,None,Afternoon,Low,246,Severe Injury
+72,134,Yes,Yes,Clear,Wet,Side impact,SUV,18,Good,Good,76,24,0.14038154847584158,Phone,Morning,Low,171,Minor Injury
+27,88,Yes,Yes,Fog,Dry,Rear-end,Truck,9,Good,Good,29,3,0.0289323621434046,None,Night,High,492,Minor Injury
+134,89,Yes,Yes,Clear,Icy,Head-on,Sedan,19,Worn out,Good,26,27,0.09216530721165686,None,Morning,Medium,184,Severe Injury
+82,28,Yes,Yes,Rain,Dry,Rear-end,Truck,9,Good,Good,38,28,0.15413955232975676,Phone,Night,Low,449,Severe Injury
+111,153,No,Yes,Rain,Dry,Head-on,Truck,16,Worn out,Good,25,27,0.10884335467473515,Phone,Afternoon,Medium,142,Minor Injury
+103,158,Yes,Yes,Clear,Uneven,Side impact,Sedan,1,Good,Worn out,52,48,0.1343737168546588,None,Afternoon,Low,282,Severe Injury
+56,31,Yes,Yes,Fog,Dry,Head-on,Sedan,3,Good,Good,24,33,0.08466636786154205,None,Morning,Medium,475,Severe Injury
+40,9,No,Yes,Clear,Wet,Rear-end,Sedan,2,Good,Good,51,28,0.015891922817944184,None,Afternoon,High,339,Minor Injury
+30,68,Yes,Yes,Clear,Dry,Side impact,SUV,2,Good,Good,77,23,0.018385728462359953,None,Afternoon,Low,294,Severe Injury
+118,62,No,Yes,Clear,Dry,Rollover,SUV,15,Worn out,Good,31,4,0.08687056500222712,None,Night,Low,370,Minor Injury
+31,70,Yes,Yes,Clear,Dry,Side impact,SUV,9,Good,Good,60,24,0.0960030551581268,Drowsiness,Afternoon,High,488,Minor Injury
+55,133,Yes,No,Clear,Dry,Rollover,Truck,14,Good,Good,25,5,0.09050858616503708,None,Night,Medium,167,Minor Injury
+174,122,Yes,Yes,Rain,Dry,Rear-end,Sedan,16,Worn out,Worn out,51,13,0.16879107260942378,None,Morning,High,416,Minor Injury
+89,57,Yes,No,Clear,Dry,Side impact,Sedan,5,Good,Good,52,7,0.05247909325941363,None,Afternoon,Medium,337,Minor Injury
+145,136,No,Yes,Fog,Wet,Side impact,Sedan,5,Good,Good,49,1,0.14135913681199194,None,Afternoon,Medium,122,Minor Injury
+105,126,No,Yes,Rain,Dry,Head-on,Sedan,19,Good,Good,51,32,0.11500815264318526,None,Morning,Low,309,Minor Injury
+164,17,Yes,Yes,Rain,Wet,Rear-end,SUV,6,Good,Good,78,31,0.07347084362295922,Other,Night,Medium,301,Severe Injury
+138,1,No,Yes,Rain,Dry,Rear-end,Sedan,10,Good,Good,18,38,0.07096900410464578,None,Morning,Low,91,Minor Injury
+157,164,Yes,Yes,Rain,Dry,Side impact,Motorcycle,3,Good,Good,79,24,0.08246715285509534,None,Afternoon,Medium,240,Severe Injury
+177,116,Yes,Yes,Rain,Wet,Head-on,SUV,8,Good,Worn out,77,11,0.016984795733246915,Drowsiness,Morning,Low,208,Minor Injury
+72,170,No,Yes,Clear,Dry,Head-on,Motorcycle,4,Good,Good,64,21,0.1922934006375452,Phone,Afternoon,High,431,Minor Injury
+21,92,Yes,No,Clear,Dry,Head-on,Motorcycle,19,Good,Good,61,47,0.02158650257266628,None,Night,High,108,Minor Injury
+166,65,Yes,Yes,Clear,Dry,Side impact,Sedan,2,Good,Worn out,51,47,0.044822200882351386,None,Morning,Low,462,Minor Injury
+184,153,No,Yes,Snow,Dry,Side impact,Sedan,13,Good,Good,68,5,0.1342520974791865,None,Night,Medium,314,Minor Injury
+92,167,Yes,Yes,Clear,Uneven,Rear-end,SUV,4,Good,Good,73,43,0.11318713820909299,None,Night,Medium,350,Minor Injury
+121,61,No,Yes,Clear,Dry,Rear-end,Motorcycle,0,Good,Good,35,22,0.1473312535889871,Drowsiness,Afternoon,Medium,157,Severe Injury
+141,102,Yes,Yes,Rain,Dry,Head-on,Sedan,19,Good,Good,62,9,0.018675430443240094,None,Afternoon,Low,26,Minor Injury
+59,38,Yes,No,Clear,Dry,Side impact,Sedan,19,Good,Good,34,33,0.19553634956632324,Other,Afternoon,Medium,29,Fatal
+192,20,Yes,No,Rain,Dry,Rear-end,SUV,17,Good,Good,49,43,0.10937316098984956,None,Morning,Low,299,Minor Injury
+22,117,No,Yes,Rain,Dry,Rollover,Motorcycle,12,Good,Good,76,30,0.015928187831615315,None,Morning,High,474,Severe Injury
+115,81,Yes,Yes,Clear,Wet,Head-on,Sedan,19,Worn out,Worn out,66,41,0.11333496637973672,None,Afternoon,Medium,252,Minor Injury
+124,24,Yes,Yes,Rain,Dry,Head-on,SUV,8,Good,Good,58,17,0.009470564335191846,Phone,Night,High,127,Minor Injury
+119,40,Yes,Yes,Snow,Dry,Rear-end,SUV,13,Good,Good,63,7,0.02430040321066569,None,Afternoon,Low,286,Minor Injury
+48,60,No,Yes,Clear,Wet,Side impact,Sedan,9,Good,Good,31,27,0.026094696810508602,None,Night,Medium,322,Minor Injury
+44,53,No,Yes,Snow,Dry,Head-on,Truck,4,Good,Good,43,44,0.037208325086749205,Drowsiness,Afternoon,Medium,53,Severe Injury
+126,149,No,Yes,Clear,Dry,Head-on,SUV,15,Good,Good,75,43,0.19512645857989744,None,Morning,High,330,Severe Injury
+54,68,No,Yes,Clear,Dry,Side impact,Motorcycle,1,Worn out,Good,40,1,0.04176192246904989,None,Afternoon,Low,392,Minor Injury
+149,101,Yes,Yes,Clear,Wet,Head-on,SUV,5,Good,Good,79,47,0.1571698633196588,Drowsiness,Afternoon,High,133,Minor Injury
+145,83,Yes,No,Fog,Icy,Head-on,Sedan,16,Good,Good,71,21,0.17962355221929907,Phone,Afternoon,Medium,140,Severe Injury
+105,110,Yes,Yes,Rain,Dry,Side impact,SUV,2,Good,Worn out,59,22,0.08133705027598184,Phone,Afternoon,Medium,337,Minor Injury
+183,80,Yes,Yes,Clear,Dry,Head-on,Motorcycle,7,Good,Good,45,37,0.0935751009241314,Drowsiness,Afternoon,Low,83,Minor Injury
+51,29,No,Yes,Clear,Dry,Rear-end,Sedan,8,Good,Good,43,23,0.06271109264065189,Drowsiness,Morning,Low,208,Minor Injury
+175,16,Yes,No,Clear,Dry,Side impact,Sedan,10,Good,Good,62,20,0.07665545821788972,None,Afternoon,Medium,30,Minor Injury
+102,81,No,No,Clear,Dry,Head-on,Motorcycle,16,Good,Worn out,69,7,0.013666664187651258,None,Afternoon,Medium,219,Severe Injury
+185,132,Yes,Yes,Rain,Icy,Rear-end,SUV,16,Good,Good,31,11,0.18785184138168953,None,Morning,High,106,Minor Injury
+72,66,Yes,Yes,Clear,Dry,Rear-end,SUV,4,Good,Good,29,39,0.1962543753431715,Phone,Afternoon,Medium,327,Minor Injury
+141,101,Yes,No,Clear,Dry,Rear-end,Motorcycle,11,Good,Worn out,68,14,0.04048181653984824,None,Night,Medium,113,Severe Injury
+104,102,Yes,Yes,Clear,Wet,Rear-end,Truck,5,Good,Good,22,38,0.08439765621540425,Other,Afternoon,Medium,64,Minor Injury
+195,90,Yes,Yes,Rain,Dry,Rear-end,SUV,17,Good,Good,30,32,0.18224342002858004,None,Morning,High,356,Minor Injury
+38,28,Yes,Yes,Clear,Wet,Side impact,Truck,7,Good,Good,41,37,0.14276140224131836,None,Night,Low,44,Severe Injury
+179,131,No,Yes,Fog,Dry,Rear-end,Sedan,18,Worn out,Good,31,7,0.10708335493117088,None,Morning,Low,323,Severe Injury
+67,71,Yes,Yes,Rain,Dry,Rear-end,SUV,17,Good,Good,69,5,0.11707036142054701,Drowsiness,Afternoon,Medium,51,Minor Injury
+28,11,Yes,Yes,Clear,Dry,Head-on,Truck,7,Good,Good,18,46,0.17129150531645881,None,Afternoon,Medium,287,Minor Injury
+126,103,Yes,Yes,Clear,Dry,Head-on,SUV,11,Good,Good,72,27,0.12305167071067202,None,Night,Medium,119,Minor Injury
+48,160,Yes,Yes,Clear,Dry,Head-on,Truck,6,Good,Good,51,14,0.009633382222779475,None,Afternoon,Medium,406,Severe Injury
+81,19,Yes,Yes,Clear,Dry,Rear-end,Sedan,3,Worn out,Good,26,31,0.06689469649758865,Phone,Afternoon,High,314,Minor Injury
+27,6,Yes,Yes,Clear,Uneven,Side impact,Sedan,2,Good,Good,44,44,0.19404653792014662,None,Afternoon,Low,258,Severe Injury
+61,34,Yes,Yes,Snow,Dry,Rollover,SUV,18,Worn out,Worn out,45,44,0.011095480760678834,None,Afternoon,Medium,234,Minor Injury
+81,2,Yes,No,Rain,Wet,Rear-end,Truck,16,Good,Good,59,45,0.15453377727785977,Phone,Afternoon,High,53,Minor Injury
+177,152,Yes,Yes,Rain,Dry,Rear-end,Truck,11,Good,Worn out,50,36,0.0530844496794306,Phone,Night,Medium,253,Minor Injury
+53,67,Yes,Yes,Clear,Wet,Head-on,Truck,13,Worn out,Good,58,44,0.004932715462049631,None,Night,High,300,Minor Injury
+151,1,Yes,Yes,Clear,Dry,Rear-end,Truck,13,Good,Worn out,55,28,0.024653440912699165,None,Afternoon,Medium,420,Severe Injury
+193,107,Yes,Yes,Rain,Wet,Side impact,SUV,1,Good,Good,74,29,0.1318078482521747,None,Night,Medium,476,Minor Injury
+144,73,Yes,No,Snow,Dry,Side impact,SUV,10,Good,Good,49,5,0.17511715255110089,Phone,Morning,Medium,67,Minor Injury
+95,23,No,No,Rain,Dry,Rear-end,Truck,1,Worn out,Worn out,36,35,0.1975589558041751,None,Afternoon,Medium,247,Minor Injury
+166,27,Yes,Yes,Fog,Wet,Side impact,Sedan,3,Good,Worn out,48,16,0.14930316708272812,None,Morning,High,255,Minor Injury
+31,71,Yes,Yes,Snow,Dry,Side impact,Truck,0,Good,Good,72,42,0.1355318051533355,Drowsiness,Night,Medium,375,Minor Injury
+45,125,No,Yes,Clear,Dry,Rear-end,Sedan,13,Good,Worn out,64,12,0.026576015290046454,None,Morning,High,245,Minor Injury
+36,0,No,Yes,Clear,Dry,Head-on,Sedan,1,Good,Good,35,27,0.1294354151181441,None,Afternoon,Medium,393,Minor Injury
+73,75,Yes,Yes,Clear,Dry,Rear-end,SUV,19,Good,Good,46,18,0.07126814535994251,Other,Afternoon,Low,439,Minor Injury
+43,178,Yes,Yes,Snow,Dry,Side impact,SUV,8,Good,Worn out,51,20,0.06431180737295179,None,Night,Medium,246,Severe Injury
+181,58,Yes,Yes,Clear,Wet,Rear-end,Truck,1,Good,Good,63,33,0.1327667484808431,None,Night,Low,438,Minor Injury
+186,163,Yes,Yes,Snow,Icy,Side impact,Sedan,1,Good,Good,75,43,0.13762503164025885,None,Afternoon,Medium,153,Minor Injury
+182,145,Yes,Yes,Rain,Dry,Side impact,Truck,6,Good,Good,76,11,0.03198009563065376,None,Morning,Low,489,Severe Injury
+182,140,Yes,Yes,Snow,Icy,Rollover,SUV,9,Good,Good,20,38,0.007834350975323302,None,Night,Medium,323,Minor Injury
+119,88,Yes,Yes,Rain,Uneven,Head-on,SUV,17,Good,Good,70,32,0.16496274443774592,None,Night,Low,204,Minor Injury
+50,17,No,Yes,Clear,Uneven,Rear-end,Truck,13,Good,Good,19,23,0.03778392326757625,None,Afternoon,Medium,50,Minor Injury
+98,138,Yes,Yes,Clear,Dry,Head-on,Sedan,9,Good,Good,27,39,0.1192327688315799,Phone,Morning,Medium,288,Minor Injury
+40,170,Yes,Yes,Rain,Dry,Rear-end,Sedan,12,Good,Good,46,15,0.15657895870173819,Drowsiness,Night,Medium,246,Minor Injury
+196,34,No,Yes,Rain,Dry,Side impact,Truck,8,Good,Good,50,38,0.19599743819787507,None,Afternoon,Low,225,Minor Injury
+127,157,No,Yes,Clear,Wet,Rear-end,Sedan,18,Good,Good,22,44,0.08407266081324193,Other,Afternoon,Low,24,Minor Injury
+47,4,Yes,Yes,Snow,Icy,Head-on,Sedan,0,Good,Worn out,37,20,0.1135732523597441,Other,Morning,Medium,342,Minor Injury
+47,102,Yes,Yes,Rain,Icy,Side impact,Truck,1,Good,Good,23,47,0.1875558217711259,Drowsiness,Night,Medium,499,Severe Injury
+191,55,Yes,Yes,Clear,Dry,Head-on,Sedan,17,Good,Good,67,45,0.15615416915204944,None,Afternoon,Medium,276,Minor Injury
+105,122,Yes,Yes,Snow,Dry,Side impact,Sedan,3,Good,Good,74,3,0.017047285326387884,Phone,Afternoon,Medium,295,Minor Injury
+138,77,No,Yes,Fog,Dry,Side impact,Truck,10,Good,Good,45,22,0.06662340706071339,None,Night,Low,161,Severe Injury
+88,151,Yes,Yes,Rain,Dry,Rear-end,SUV,0,Worn out,Good,69,39,0.10951193997488601,None,Night,High,313,Minor Injury
+65,95,Yes,Yes,Clear,Wet,Side impact,Sedan,17,Good,Good,30,33,0.010084976999403694,Phone,Morning,Low,153,Severe Injury
+89,78,Yes,Yes,Rain,Wet,Rear-end,Sedan,13,Good,Worn out,77,19,0.11628472846126277,None,Afternoon,High,486,Minor Injury
+36,146,Yes,Yes,Clear,Dry,Rear-end,SUV,11,Worn out,Good,38,42,0.04357405829578969,Drowsiness,Afternoon,Low,84,Minor Injury
+119,115,No,No,Snow,Dry,Side impact,SUV,15,Good,Good,59,30,0.030600838999779435,None,Afternoon,Medium,95,Severe Injury
+51,175,Yes,Yes,Rain,Dry,Head-on,Sedan,5,Good,Good,58,1,0.16645684327575125,None,Night,High,53,Severe Injury
+198,76,Yes,Yes,Rain,Wet,Head-on,SUV,1,Worn out,Good,74,45,0.16336667437689115,None,Afternoon,Low,269,Minor Injury
+109,172,Yes,No,Clear,Icy,Side impact,Truck,10,Good,Good,33,25,0.16308286082466997,Other,Morning,High,19,Minor Injury
+90,99,Yes,Yes,Fog,Wet,Rollover,SUV,5,Good,Good,53,6,0.08883818514445992,None,Night,High,72,Minor Injury
+172,127,No,No,Snow,Dry,Rear-end,SUV,7,Good,Good,69,31,0.1704209655972312,Other,Afternoon,Medium,324,Minor Injury
+141,56,Yes,Yes,Clear,Dry,Rear-end,Truck,17,Worn out,Worn out,38,6,0.1610430907253991,None,Afternoon,Medium,463,Minor Injury
+54,170,Yes,Yes,Fog,Wet,Head-on,Sedan,3,Good,Good,60,33,0.0863466968360675,Drowsiness,Afternoon,Medium,448,Minor Injury
+107,28,Yes,Yes,Snow,Dry,Head-on,Truck,17,Good,Worn out,29,42,0.03919787795365315,None,Morning,Low,287,Severe Injury
+36,140,Yes,Yes,Fog,Dry,Head-on,Sedan,10,Good,Good,49,0,0.1335323142686358,Drowsiness,Night,High,27,Minor Injury
+89,178,No,Yes,Clear,Wet,Rollover,Sedan,8,Good,Good,23,46,0.1213844630759591,Drowsiness,Afternoon,Low,245,Severe Injury
+180,132,No,No,Clear,Dry,Rear-end,Sedan,4,Good,Good,50,6,0.1650140899993896,Drowsiness,Afternoon,Medium,474,Minor Injury
+95,10,No,Yes,Clear,Dry,Rear-end,Motorcycle,11,Good,Good,70,4,0.1488281627006227,Drowsiness,Morning,Low,225,Minor Injury
+46,30,Yes,Yes,Fog,Dry,Rollover,Motorcycle,13,Good,Good,79,10,0.14153877890170607,Drowsiness,Afternoon,Medium,113,Minor Injury
+136,148,Yes,Yes,Fog,Icy,Head-on,Sedan,6,Good,Worn out,59,46,0.04524418367485586,None,Night,Low,419,Minor Injury
+166,85,No,Yes,Clear,Dry,Rear-end,SUV,0,Worn out,Good,69,15,0.03390271190672929,Drowsiness,Afternoon,Medium,355,Severe Injury
+85,79,Yes,Yes,Rain,Dry,Rollover,Truck,18,Good,Good,42,32,0.12263758944088064,Drowsiness,Night,Medium,328,Minor Injury
+144,77,Yes,Yes,Clear,Dry,Rollover,Truck,6,Worn out,Good,41,39,0.15290011831488973,None,Night,Low,334,Minor Injury
+70,48,Yes,Yes,Clear,Wet,Rear-end,SUV,1,Good,Good,62,8,0.15634357008672742,None,Night,High,249,Minor Injury
+27,6,Yes,Yes,Snow,Dry,Rear-end,Motorcycle,8,Good,Good,78,25,0.11059714846281113,Other,Night,Medium,209,Minor Injury
+173,172,Yes,Yes,Clear,Dry,Rear-end,SUV,12,Good,Worn out,73,5,0.16593914596311296,Phone,Morning,Low,235,Minor Injury
+89,21,Yes,Yes,Snow,Dry,Rear-end,Sedan,8,Good,Good,49,45,0.05634363909500739,None,Morning,Low,38,Severe Injury
+97,64,Yes,Yes,Clear,Wet,Rear-end,Truck,3,Worn out,Good,53,39,0.00943420866396847,None,Afternoon,Low,492,Minor Injury
+123,131,Yes,Yes,Clear,Wet,Rear-end,Sedan,14,Good,Good,75,25,0.1827001416271087,None,Afternoon,Low,280,Minor Injury
+160,124,No,Yes,Snow,Icy,Side impact,SUV,12,Good,Good,45,25,0.127943883360474,None,Afternoon,Medium,11,Minor Injury
+64,95,Yes,Yes,Clear,Dry,Head-on,Truck,9,Good,Worn out,58,7,0.06669262163762235,Phone,Morning,Medium,322,Minor Injury
+194,122,Yes,Yes,Clear,Dry,Rollover,Truck,19,Good,Good,65,12,0.1398757600162779,None,Night,Low,30,Minor Injury
+94,77,Yes,Yes,Snow,Wet,Rear-end,SUV,3,Worn out,Worn out,32,11,0.1171704979871518,None,Afternoon,Medium,234,Minor Injury
+193,3,Yes,Yes,Clear,Dry,Side impact,SUV,8,Good,Good,28,19,0.0745322991680026,None,Night,Medium,100,Severe Injury
+138,112,Yes,Yes,Snow,Icy,Head-on,Sedan,7,Good,Worn out,58,7,0.19944041815768543,None,Afternoon,Medium,298,Severe Injury
+199,76,Yes,Yes,Rain,Wet,Side impact,Sedan,15,Worn out,Good,33,6,0.020674845544131196,Other,Afternoon,Medium,105,Minor Injury
+39,145,Yes,Yes,Clear,Dry,Head-on,Sedan,3,Worn out,Good,61,45,0.01735674998158283,None,Afternoon,High,269,Severe Injury
+160,105,Yes,No,Clear,Dry,Side impact,SUV,14,Good,Good,23,34,0.138807552731577,Other,Afternoon,Medium,100,Severe Injury
+65,110,Yes,Yes,Clear,Dry,Rear-end,SUV,10,Worn out,Worn out,49,5,0.0699811972584748,None,Afternoon,Medium,78,Minor Injury
+40,175,Yes,No,Clear,Dry,Head-on,Sedan,17,Worn out,Good,55,9,0.1368908884335896,None,Afternoon,Low,244,Severe Injury
+147,101,No,No,Rain,Dry,Rear-end,SUV,16,Good,Good,35,4,0.04511590631946952,None,Afternoon,Low,245,Minor Injury
+166,29,Yes,Yes,Clear,Wet,Rear-end,Motorcycle,8,Good,Good,58,22,0.0848806089491152,Drowsiness,Morning,Medium,168,Minor Injury
+155,171,No,Yes,Clear,Dry,Rollover,SUV,0,Good,Good,68,49,0.13370859501267104,Other,Afternoon,Medium,306,Fatal
+153,76,Yes,Yes,Rain,Wet,Side impact,Motorcycle,10,Good,Good,59,18,0.0020085201000158426,None,Night,Low,444,Minor Injury
+64,38,Yes,Yes,Fog,Dry,Head-on,Sedan,14,Good,Good,49,16,0.039509475899806606,None,Night,Medium,387,Minor Injury
+178,56,Yes,Yes,Clear,Dry,Rear-end,SUV,0,Worn out,Good,18,35,0.0630432834227078,Other,Night,Medium,193,Minor Injury
+24,102,No,Yes,Fog,Dry,Rear-end,Motorcycle,15,Worn out,Good,34,31,0.19917038591527367,Drowsiness,Night,Medium,205,Fatal
+111,142,Yes,No,Rain,Dry,Head-on,Sedan,14,Good,Worn out,61,35,0.13145024761294458,Drowsiness,Morning,Medium,394,Minor Injury
+60,19,Yes,Yes,Rain,Dry,Head-on,SUV,1,Good,Good,58,14,0.08744587076365745,Drowsiness,Morning,Medium,229,Minor Injury
+128,158,Yes,No,Clear,Wet,Rear-end,SUV,14,Good,Good,28,33,0.13596974063462866,Phone,Afternoon,Low,304,Minor Injury
+53,157,No,Yes,Clear,Dry,Rear-end,Truck,19,Worn out,Worn out,48,29,0.15808837326377212,None,Afternoon,High,454,Severe Injury
+81,44,Yes,Yes,Rain,Dry,Side impact,Truck,0,Worn out,Good,57,7,0.14625622317695774,None,Morning,Medium,327,Severe Injury
+191,85,No,Yes,Rain,Dry,Side impact,Sedan,19,Good,Good,78,46,0.07926916224792697,None,Morning,High,392,Severe Injury
+45,30,No,Yes,Fog,Dry,Head-on,Sedan,14,Good,Good,52,11,0.14819541343887713,Other,Afternoon,Low,13,Severe Injury
+95,128,Yes,Yes,Rain,Wet,Side impact,Sedan,14,Good,Good,69,41,0.09244535763852349,Drowsiness,Morning,Low,454,Minor Injury
+141,143,Yes,Yes,Clear,Dry,Rear-end,Sedan,4,Good,Good,53,26,0.03257016363118814,Phone,Night,Medium,335,Minor Injury
+98,127,Yes,Yes,Snow,Dry,Rear-end,Sedan,8,Worn out,Good,43,16,0.19684586979259036,Phone,Afternoon,Low,310,Severe Injury
+88,161,Yes,Yes,Clear,Dry,Side impact,SUV,17,Good,Good,37,44,0.1448890353638286,None,Afternoon,High,340,Severe Injury
+79,127,Yes,Yes,Clear,Dry,Rollover,Sedan,1,Worn out,Worn out,66,35,0.09174072071229185,Other,Night,High,79,Severe Injury
+172,19,Yes,No,Fog,Uneven,Rear-end,Sedan,13,Good,Good,37,31,0.04691261885340872,Phone,Night,Medium,24,Minor Injury
+86,107,Yes,Yes,Fog,Wet,Side impact,Sedan,1,Worn out,Good,62,10,0.04664162519185314,None,Morning,Medium,334,Minor Injury
+36,28,No,Yes,Rain,Dry,Rear-end,Truck,13,Good,Worn out,36,0,0.08180679622600023,Phone,Afternoon,Medium,337,Minor Injury
+188,38,No,Yes,Clear,Icy,Head-on,Sedan,19,Good,Good,34,15,0.06629279654893748,Phone,Afternoon,Medium,285,Fatal
+197,79,Yes,No,Rain,Dry,Side impact,SUV,4,Good,Good,48,27,0.037896971626711,None,Afternoon,High,106,Minor Injury
+109,131,Yes,Yes,Clear,Dry,Rear-end,Truck,10,Good,Good,59,7,0.19691543360187924,None,Morning,High,89,Minor Injury
+167,13,No,Yes,Clear,Uneven,Rear-end,Motorcycle,12,Good,Worn out,35,27,0.0640301626745318,Drowsiness,Afternoon,High,55,Severe Injury
+64,47,Yes,Yes,Rain,Dry,Rollover,SUV,10,Good,Good,68,33,0.09368580410612606,None,Afternoon,Medium,252,Minor Injury
+195,160,Yes,Yes,Fog,Dry,Rear-end,Sedan,3,Good,Good,58,31,0.0019293101058854402,None,Afternoon,Medium,363,Minor Injury
+68,30,No,Yes,Clear,Dry,Rear-end,Truck,16,Good,Good,42,2,0.039723867181747655,Phone,Afternoon,Low,408,Minor Injury
+75,167,Yes,Yes,Clear,Wet,Rear-end,Sedan,7,Good,Good,33,48,0.13469115607401308,None,Afternoon,High,346,Fatal
+103,152,No,Yes,Fog,Wet,Rear-end,Sedan,3,Good,Good,64,16,0.10336549971566895,None,Morning,Low,399,Severe Injury
+112,41,Yes,Yes,Clear,Dry,Rollover,Sedan,3,Good,Worn out,19,14,0.1135894968004989,None,Afternoon,High,241,Minor Injury
+158,101,Yes,Yes,Clear,Wet,Side impact,Motorcycle,6,Good,Good,51,44,0.06283545227371963,None,Afternoon,High,254,Minor Injury
+51,50,Yes,Yes,Clear,Dry,Rollover,Sedan,5,Good,Good,45,11,0.1919339817674517,Drowsiness,Afternoon,Low,444,Severe Injury
+93,155,Yes,Yes,Clear,Dry,Head-on,Sedan,19,Good,Good,21,48,0.19072598535895188,None,Night,Medium,188,Minor Injury
+189,113,Yes,Yes,Rain,Icy,Head-on,SUV,1,Good,Good,65,22,0.10333229801249094,None,Night,Medium,310,Minor Injury
+183,8,Yes,Yes,Clear,Dry,Side impact,Sedan,16,Good,Good,73,18,0.13558877736897187,None,Afternoon,Medium,70,Minor Injury
+26,62,Yes,Yes,Clear,Wet,Rollover,Truck,10,Good,Worn out,51,16,0.014216250523901276,Drowsiness,Morning,Medium,240,Severe Injury
+78,72,Yes,No,Clear,Dry,Rollover,Sedan,12,Worn out,Worn out,71,0,0.16962904871813114,None,Morning,High,62,Severe Injury
+119,14,Yes,Yes,Clear,Dry,Head-on,Truck,1,Good,Good,76,15,0.1246908173586733,Other,Afternoon,Medium,321,Minor Injury
+146,22,Yes,No,Clear,Dry,Head-on,Truck,15,Good,Good,79,17,0.16717709717008272,None,Afternoon,High,273,Severe Injury
+62,70,Yes,Yes,Snow,Icy,Rear-end,Sedan,5,Good,Good,19,44,0.17706911427753438,Other,Night,Low,447,Severe Injury
+161,69,Yes,Yes,Clear,Dry,Side impact,SUV,6,Good,Good,18,25,0.0024086291424850305,None,Morning,Medium,377,Severe Injury
+178,107,Yes,Yes,Clear,Wet,Rear-end,SUV,6,Good,Good,69,10,0.05412226879947899,Phone,Morning,Medium,177,Minor Injury
+49,49,Yes,No,Clear,Dry,Side impact,SUV,1,Good,Good,50,23,0.11993165332391803,Drowsiness,Afternoon,Medium,144,Severe Injury
+45,14,Yes,Yes,Clear,Dry,Side impact,Sedan,6,Good,Good,63,24,0.1716701925818628,None,Night,Medium,276,Minor Injury
+137,108,Yes,Yes,Clear,Dry,Head-on,Sedan,12,Good,Good,50,18,0.08822956745019195,None,Night,Low,401,Minor Injury
+157,9,No,Yes,Clear,Uneven,Head-on,Sedan,10,Good,Worn out,39,8,0.02279405923181961,None,Afternoon,High,259,Minor Injury
+164,94,No,No,Clear,Dry,Rear-end,SUV,5,Good,Good,54,19,0.19710799748900376,Other,Afternoon,Medium,348,Minor Injury
+106,58,Yes,No,Clear,Dry,Side impact,Sedan,18,Good,Good,63,34,0.18768859047508993,None,Morning,High,462,Fatal
+96,37,Yes,Yes,Rain,Dry,Rear-end,Sedan,16,Worn out,Good,67,20,0.0738851968566007,None,Morning,Medium,372,Minor Injury
+105,10,Yes,Yes,Clear,Dry,Head-on,Motorcycle,9,Good,Good,46,17,0.09463661597996205,Drowsiness,Afternoon,Low,258,Minor Injury
+20,112,No,Yes,Rain,Dry,Head-on,Truck,8,Good,Good,39,40,0.1723881669746559,None,Afternoon,Low,228,Severe Injury
+40,103,Yes,Yes,Clear,Icy,Side impact,Truck,14,Good,Good,75,35,0.05166059095273099,Other,Morning,Medium,444,Severe Injury
+149,116,No,Yes,Fog,Dry,Rollover,Truck,12,Worn out,Worn out,31,38,0.06573368397969136,None,Afternoon,High,403,Fatal
+119,155,No,Yes,Snow,Dry,Head-on,Sedan,5,Good,Good,65,46,0.17344934641829668,None,Afternoon,High,109,Minor Injury
+198,113,Yes,Yes,Clear,Dry,Rear-end,SUV,8,Good,Good,29,4,0.19360264489901965,Drowsiness,Afternoon,High,453,Minor Injury
+183,79,No,Yes,Clear,Icy,Rear-end,Sedan,14,Good,Good,43,40,0.0036308662428327755,None,Night,Medium,358,Minor Injury
+161,89,Yes,Yes,Snow,Dry,Head-on,Sedan,7,Good,Good,69,34,0.12003290400738509,None,Night,Medium,194,Severe Injury
+140,125,Yes,Yes,Clear,Dry,Rear-end,Sedan,16,Good,Good,59,44,0.1762525825189992,None,Afternoon,Low,178,Severe Injury
+182,25,Yes,Yes,Rain,Dry,Head-on,Sedan,15,Good,Good,38,0,0.033850880430868105,None,Morning,High,24,Minor Injury
+33,18,Yes,No,Clear,Dry,Side impact,Sedan,9,Good,Good,29,23,0.07851961378614443,Other,Morning,Medium,78,Minor Injury
+39,163,No,Yes,Fog,Dry,Side impact,Truck,14,Good,Good,47,16,0.048028761887326105,Drowsiness,Afternoon,Medium,41,Minor Injury
+162,34,Yes,Yes,Rain,Wet,Head-on,Truck,18,Good,Good,39,48,0.1970308062687851,Other,Morning,Low,50,Minor Injury
+133,85,Yes,No,Snow,Dry,Head-on,Motorcycle,16,Good,Good,60,0,0.1761316940837787,Other,Afternoon,Low,397,Minor Injury
+198,91,Yes,No,Rain,Dry,Head-on,Sedan,2,Worn out,Good,20,44,0.08272523448618095,Phone,Afternoon,Medium,49,Minor Injury
+198,58,No,Yes,Clear,Dry,Head-on,Sedan,10,Good,Worn out,69,31,0.056320561265272386,Drowsiness,Morning,Medium,321,Minor Injury
+157,89,No,Yes,Clear,Dry,Rollover,SUV,9,Good,Worn out,47,40,0.18720697288369698,None,Afternoon,Medium,244,Minor Injury
+164,162,Yes,Yes,Rain,Dry,Side impact,Sedan,19,Good,Good,56,35,0.08714760687830969,None,Afternoon,Medium,409,Minor Injury
+102,33,Yes,Yes,Clear,Dry,Side impact,Sedan,1,Good,Good,47,26,0.14720182074920055,None,Morning,Medium,67,Minor Injury
+105,10,Yes,Yes,Clear,Dry,Side impact,SUV,4,Good,Good,51,12,0.0572228843861764,None,Night,Low,39,Severe Injury
+126,71,No,Yes,Fog,Wet,Side impact,Truck,6,Good,Good,68,30,0.1375834106929912,Phone,Morning,Medium,267,Minor Injury
+98,18,No,No,Rain,Wet,Side impact,Truck,14,Good,Good,73,18,0.129664964027556,None,Afternoon,Low,402,Severe Injury
+99,175,Yes,Yes,Clear,Dry,Side impact,Sedan,19,Worn out,Worn out,54,15,0.06904139617034506,None,Morning,Low,118,Minor Injury
+67,117,Yes,Yes,Rain,Icy,Rear-end,Truck,18,Good,Good,71,32,0.16656291522466388,None,Afternoon,Medium,278,Minor Injury
+75,2,Yes,Yes,Clear,Dry,Rear-end,Sedan,1,Good,Good,58,1,0.016327839375373944,None,Morning,Low,253,Minor Injury
+107,38,No,Yes,Clear,Wet,Side impact,Truck,19,Good,Good,71,7,0.06011865781283559,None,Morning,High,211,Minor Injury
+22,58,No,Yes,Clear,Icy,Side impact,SUV,5,Good,Good,33,30,0.17847443317270148,None,Afternoon,Low,374,Minor Injury
+111,25,Yes,Yes,Clear,Dry,Rear-end,Sedan,11,Good,Good,71,16,0.05311156595192177,None,Afternoon,Medium,158,Minor Injury
+90,22,No,No,Clear,Wet,Side impact,Sedan,15,Good,Worn out,41,18,0.18477801855968715,Drowsiness,Morning,Medium,269,Severe Injury
+26,104,Yes,Yes,Clear,Dry,Rear-end,Truck,3,Good,Good,32,31,0.016421516217299016,None,Afternoon,Medium,164,Severe Injury
+97,74,Yes,Yes,Clear,Dry,Rear-end,SUV,12,Good,Worn out,53,10,0.06205172306367834,None,Night,High,494,Minor Injury
+122,22,Yes,Yes,Clear,Dry,Rear-end,SUV,15,Worn out,Good,73,5,0.10386405897508358,None,Afternoon,Medium,385,Minor Injury
+116,132,Yes,Yes,Clear,Wet,Rear-end,Sedan,6,Good,Good,61,3,0.0005909724951260964,Other,Afternoon,Low,275,Minor Injury
+151,101,Yes,Yes,Clear,Dry,Side impact,Sedan,13,Good,Worn out,32,27,0.009133537441815642,Drowsiness,Afternoon,Medium,127,Minor Injury
+71,14,Yes,Yes,Fog,Dry,Side impact,Sedan,1,Good,Worn out,43,9,0.16438414029741755,None,Afternoon,Low,495,Minor Injury
+176,42,Yes,Yes,Clear,Dry,Rear-end,SUV,19,Good,Good,79,43,0.07056899436500153,None,Morning,Medium,269,Minor Injury
+71,51,No,Yes,Clear,Dry,Side impact,Sedan,16,Good,Good,19,39,0.057837439788993895,None,Night,High,75,Minor Injury
+173,10,Yes,Yes,Clear,Dry,Side impact,Sedan,15,Worn out,Good,42,16,0.1748271431642069,Phone,Night,Medium,305,Minor Injury
+182,58,Yes,Yes,Clear,Dry,Head-on,Sedan,2,Good,Worn out,25,41,0.11366225326764744,Other,Afternoon,High,232,Severe Injury
+143,48,Yes,No,Fog,Dry,Head-on,Motorcycle,16,Good,Good,36,23,0.06252399575071566,None,Night,Medium,489,Minor Injury
+103,139,Yes,No,Clear,Wet,Side impact,SUV,19,Good,Good,52,1,0.0021566445444526797,None,Morning,High,298,Minor Injury
+79,129,Yes,Yes,Rain,Dry,Side impact,Truck,1,Good,Good,68,18,0.14155157815027036,Phone,Morning,Medium,276,Minor Injury
+114,92,Yes,No,Snow,Dry,Side impact,Sedan,9,Good,Good,45,29,0.11805830280820043,None,Night,Medium,423,Minor Injury
+198,46,Yes,Yes,Snow,Dry,Side impact,Sedan,12,Good,Good,25,4,0.07593165301624683,None,Night,Medium,444,Minor Injury
+170,109,Yes,No,Clear,Dry,Head-on,Truck,16,Good,Good,78,36,0.17915054855689333,None,Night,Medium,386,Minor Injury
+25,55,Yes,Yes,Snow,Dry,Rear-end,Truck,6,Good,Good,65,44,0.10701890369549001,None,Afternoon,Low,143,Minor Injury
+32,5,Yes,Yes,Clear,Dry,Rear-end,SUV,19,Good,Good,63,26,0.004597810020544446,None,Afternoon,Medium,462,Minor Injury
+120,66,Yes,Yes,Fog,Dry,Head-on,Truck,3,Good,Good,79,44,0.042661941264967966,None,Afternoon,High,183,Minor Injury
+68,121,No,Yes,Clear,Icy,Side impact,Truck,5,Good,Good,47,4,0.007241253962561656,Drowsiness,Afternoon,High,366,Severe Injury
+159,114,No,Yes,Clear,Dry,Rear-end,Sedan,2,Good,Good,63,35,0.04654173955004779,None,Morning,High,270,Minor Injury
+130,87,Yes,Yes,Clear,Dry,Side impact,Sedan,4,Good,Good,27,30,0.08887810641727081,None,Night,Medium,179,Minor Injury
+123,155,No,Yes,Clear,Dry,Head-on,Sedan,9,Good,Good,63,23,0.07866087080747815,Drowsiness,Morning,Low,284,Severe Injury
+166,24,No,Yes,Clear,Dry,Rear-end,Sedan,16,Good,Good,24,20,0.0712342866060173,None,Afternoon,Low,201,Minor Injury
+172,115,No,Yes,Fog,Uneven,Rear-end,SUV,19,Worn out,Good,72,10,0.15563042055837487,None,Morning,Medium,447,Minor Injury
+198,76,No,Yes,Clear,Dry,Rear-end,Sedan,19,Good,Good,73,16,0.06753950864527751,Other,Afternoon,High,101,Minor Injury
+114,30,Yes,Yes,Rain,Dry,Head-on,Sedan,10,Worn out,Good,78,43,0.17149670819672125,None,Afternoon,High,286,Minor Injury
+78,175,Yes,Yes,Rain,Dry,Side impact,Truck,0,Good,Good,31,1,0.04872853957835313,None,Morning,High,430,Severe Injury
+100,167,Yes,No,Clear,Wet,Head-on,SUV,11,Good,Good,31,22,0.012990724189227932,None,Morning,Medium,25,Minor Injury
+168,17,Yes,Yes,Rain,Dry,Rear-end,SUV,2,Good,Good,79,41,0.08118381942364755,None,Night,Low,40,Minor Injury
+27,56,Yes,Yes,Clear,Wet,Rear-end,Truck,16,Good,Good,64,29,0.06178292165813357,None,Afternoon,Low,412,Severe Injury
+137,176,Yes,Yes,Clear,Wet,Rear-end,SUV,14,Good,Good,31,28,0.06131609218855727,Phone,Afternoon,Low,347,Minor Injury
+95,169,No,Yes,Clear,Dry,Rear-end,SUV,11,Good,Good,77,7,0.0761643152863977,Other,Night,Medium,428,Severe Injury
+138,169,No,Yes,Clear,Dry,Head-on,SUV,17,Good,Worn out,49,40,0.11350704392088203,Drowsiness,Morning,High,99,Minor Injury
+121,121,Yes,No,Clear,Icy,Head-on,Sedan,12,Good,Good,72,23,0.1778942468091527,Drowsiness,Afternoon,High,432,Fatal
+137,151,Yes,Yes,Clear,Dry,Head-on,Sedan,10,Good,Good,37,43,0.030885731522359273,Phone,Afternoon,High,358,Severe Injury
+127,44,Yes,Yes,Clear,Icy,Head-on,Sedan,10,Good,Good,76,24,0.18423305409857593,None,Afternoon,Medium,38,Minor Injury
+133,9,Yes,Yes,Rain,Uneven,Head-on,Sedan,7,Good,Good,77,15,0.02585170881433965,None,Afternoon,Low,459,Minor Injury
+48,171,Yes,Yes,Clear,Wet,Rear-end,Motorcycle,14,Good,Worn out,59,15,0.09971349753744219,Other,Morning,High,359,Minor Injury
+155,147,No,Yes,Clear,Dry,Rear-end,SUV,16,Good,Good,27,12,0.06966045036907174,None,Afternoon,Medium,25,Minor Injury
+195,140,Yes,Yes,Snow,Dry,Side impact,SUV,13,Worn out,Good,61,47,0.05950237924789612,Phone,Afternoon,Medium,85,Severe Injury
+179,114,Yes,Yes,Rain,Dry,Rear-end,SUV,12,Good,Worn out,20,46,0.11024418213658099,None,Afternoon,Low,352,Minor Injury
+65,126,No,No,Clear,Wet,Rear-end,Sedan,13,Worn out,Good,22,23,0.1200748388982748,None,Night,Medium,450,Severe Injury
+174,4,Yes,Yes,Snow,Dry,Head-on,Sedan,12,Worn out,Worn out,22,9,0.08359222566670868,Phone,Morning,Medium,493,Minor Injury
+196,178,Yes,Yes,Rain,Icy,Side impact,Sedan,18,Good,Good,27,38,0.056453090811334095,None,Afternoon,Medium,334,Severe Injury
+39,119,Yes,Yes,Clear,Uneven,Rear-end,Sedan,14,Worn out,Worn out,25,44,0.12896824195191917,None,Night,Medium,212,Fatal
+82,19,No,Yes,Clear,Wet,Rear-end,SUV,11,Good,Good,22,0,0.1439063675718872,Drowsiness,Afternoon,High,319,Minor Injury
+90,75,No,Yes,Clear,Dry,Rear-end,Motorcycle,4,Good,Worn out,37,8,0.01101665637411402,None,Afternoon,Medium,271,Severe Injury
+162,65,Yes,Yes,Rain,Dry,Rear-end,Sedan,14,Worn out,Good,24,24,0.04278669338622609,None,Afternoon,Medium,383,Minor Injury
+26,137,Yes,Yes,Rain,Dry,Side impact,Sedan,14,Good,Good,40,9,0.17426153766888322,Phone,Afternoon,Low,94,Severe Injury
+171,146,Yes,Yes,Clear,Dry,Rear-end,Truck,11,Good,Good,32,9,0.09827693451084403,Phone,Night,Medium,196,Minor Injury
+49,34,Yes,No,Clear,Uneven,Head-on,SUV,17,Worn out,Good,42,23,0.07563740913396766,None,Afternoon,Medium,206,Minor Injury
+41,92,No,Yes,Rain,Wet,Rear-end,Motorcycle,15,Good,Good,47,33,0.13480075511764167,None,Afternoon,Low,234,Minor Injury
+42,12,No,Yes,Clear,Dry,Head-on,Sedan,13,Worn out,Good,64,38,0.11669529721961601,None,Morning,Low,387,Fatal
+60,86,Yes,Yes,Clear,Dry,Rear-end,Sedan,5,Worn out,Good,40,4,0.16941671274779746,None,Night,Low,80,Minor Injury
+96,55,Yes,Yes,Clear,Dry,Side impact,Truck,7,Good,Good,26,7,0.1504412209672472,Drowsiness,Morning,Medium,236,Severe Injury
+127,117,Yes,Yes,Rain,Dry,Rear-end,SUV,16,Good,Good,31,3,0.17965017999348284,Drowsiness,Morning,Medium,372,Minor Injury
+24,75,No,Yes,Fog,Dry,Rear-end,Truck,18,Good,Good,45,38,0.023723289788110516,None,Morning,Medium,129,Minor Injury
+39,25,Yes,Yes,Fog,Uneven,Head-on,SUV,12,Good,Good,44,48,0.06942978925124377,None,Morning,High,50,Minor Injury
+138,1,Yes,Yes,Rain,Dry,Rollover,Motorcycle,0,Good,Good,74,41,0.05526291232990517,None,Morning,High,223,Minor Injury
+172,124,No,Yes,Clear,Dry,Head-on,SUV,18,Good,Good,69,5,0.012958401530590491,Phone,Night,Medium,381,Severe Injury
+81,43,No,Yes,Clear,Dry,Side impact,SUV,14,Good,Good,23,47,0.05315752822735005,None,Morning,High,436,Severe Injury
+118,95,No,No,Fog,Dry,Rear-end,Sedan,6,Good,Good,63,2,0.11183408921271093,None,Night,High,416,Minor Injury
+118,176,No,No,Clear,Dry,Rear-end,Sedan,5,Good,Good,21,10,0.18567170104616784,None,Morning,High,185,Minor Injury
+58,63,Yes,No,Clear,Dry,Head-on,Sedan,1,Worn out,Good,48,18,0.001097498856532675,None,Afternoon,High,174,Minor Injury
+183,115,Yes,Yes,Rain,Dry,Side impact,SUV,9,Good,Worn out,53,33,0.08481637848919195,Phone,Afternoon,Low,484,Minor Injury
+84,6,No,Yes,Clear,Dry,Head-on,Sedan,18,Good,Good,65,40,0.0729617962596124,Drowsiness,Afternoon,Low,482,Minor Injury
+82,112,Yes,Yes,Rain,Dry,Side impact,Truck,10,Good,Good,54,47,0.048784607532622065,None,Night,Low,188,Severe Injury
+77,35,Yes,Yes,Rain,Dry,Side impact,SUV,0,Good,Good,18,18,0.1484972414244382,None,Afternoon,Medium,436,Severe Injury
+63,73,Yes,Yes,Fog,Dry,Head-on,Truck,13,Good,Good,34,0,0.07515619567612082,Other,Night,Low,424,Minor Injury
+184,145,Yes,Yes,Rain,Dry,Side impact,Sedan,17,Good,Good,58,10,0.010703835092473635,Drowsiness,Morning,Medium,253,Severe Injury
+22,178,No,Yes,Rain,Icy,Head-on,SUV,18,Good,Good,65,42,0.18037497217034623,Other,Afternoon,High,154,Minor Injury
+81,93,Yes,Yes,Fog,Dry,Head-on,SUV,2,Good,Good,18,36,0.10154670807453942,None,Afternoon,Medium,225,Minor Injury
+54,65,Yes,Yes,Rain,Dry,Rear-end,SUV,8,Good,Worn out,53,14,0.1477665340051722,Drowsiness,Afternoon,Low,308,Minor Injury
+73,66,Yes,No,Rain,Dry,Head-on,SUV,18,Worn out,Good,50,30,0.06686694730874683,None,Morning,Low,239,Minor Injury
+71,15,Yes,Yes,Rain,Dry,Rear-end,Motorcycle,15,Good,Good,43,32,0.10770238472081489,None,Morning,Medium,45,Severe Injury
+152,122,Yes,Yes,Clear,Dry,Side impact,Truck,6,Good,Good,69,26,0.03526075270793738,None,Morning,Low,39,Minor Injury
+112,177,Yes,Yes,Snow,Dry,Side impact,Sedan,12,Good,Good,18,30,0.059406291609532084,Drowsiness,Night,Medium,432,Severe Injury
+173,53,Yes,Yes,Rain,Dry,Rear-end,Sedan,14,Good,Good,54,20,0.04457249216904986,None,Afternoon,Medium,497,Minor Injury
+73,21,Yes,Yes,Snow,Dry,Head-on,Sedan,12,Worn out,Good,45,28,0.06606610567123598,None,Morning,High,84,Minor Injury
+149,26,No,Yes,Clear,Dry,Rollover,Sedan,0,Good,Good,28,0,0.16333103077976951,Phone,Morning,Low,124,Minor Injury
+137,102,Yes,Yes,Clear,Dry,Side impact,Truck,0,Good,Good,34,26,0.15014451905209658,None,Afternoon,Low,57,Severe Injury
+119,158,Yes,Yes,Clear,Wet,Rollover,Sedan,12,Good,Good,69,3,0.05371316873336987,None,Afternoon,High,95,Severe Injury
+82,49,No,Yes,Rain,Uneven,Head-on,SUV,12,Good,Good,29,44,0.10022034007631504,Drowsiness,Afternoon,Medium,157,Severe Injury
+35,100,Yes,No,Fog,Dry,Rear-end,Motorcycle,4,Good,Good,65,21,0.1536689078520838,Phone,Afternoon,Medium,267,Minor Injury
+54,21,Yes,Yes,Clear,Dry,Rollover,Sedan,13,Good,Worn out,32,44,0.1729900267779488,Phone,Morning,Medium,264,Fatal
+178,47,Yes,Yes,Fog,Icy,Head-on,Truck,14,Good,Good,76,35,0.08288226398830345,None,Morning,Medium,357,Minor Injury
+184,106,Yes,Yes,Rain,Uneven,Head-on,Sedan,16,Good,Good,36,31,0.19970448016002726,None,Afternoon,Medium,252,Severe Injury
+93,19,No,No,Rain,Dry,Rear-end,Sedan,4,Good,Good,31,25,0.18987742459751478,Phone,Night,High,86,Minor Injury
+139,26,Yes,Yes,Fog,Dry,Rear-end,Sedan,2,Good,Good,72,46,0.042461655512143426,None,Afternoon,High,152,Minor Injury
+80,163,No,Yes,Clear,Dry,Side impact,Sedan,17,Good,Worn out,74,32,0.04777328247063759,Other,Afternoon,High,357,Minor Injury
+142,33,No,Yes,Fog,Dry,Side impact,SUV,3,Good,Good,27,34,0.14094042192145845,None,Night,Low,287,Severe Injury
+54,42,Yes,No,Clear,Dry,Head-on,Motorcycle,9,Worn out,Worn out,43,7,0.12425484038584403,None,Afternoon,Medium,330,Minor Injury
+179,137,Yes,Yes,Clear,Dry,Rollover,Truck,15,Good,Worn out,36,28,0.12328620807892386,Drowsiness,Night,Low,388,Minor Injury
+169,78,Yes,Yes,Clear,Dry,Rear-end,SUV,19,Good,Good,31,43,0.05226006720635734,None,Night,Low,369,Minor Injury
+117,101,Yes,Yes,Clear,Icy,Head-on,SUV,3,Good,Good,24,30,0.1607810988208711,Drowsiness,Morning,High,182,Severe Injury
+180,110,No,Yes,Clear,Dry,Rear-end,Truck,6,Good,Worn out,60,38,0.012320667859805613,None,Night,Low,449,Severe Injury
+71,43,Yes,Yes,Clear,Dry,Rear-end,SUV,13,Good,Good,78,34,0.10136818509014,Drowsiness,Morning,High,16,Minor Injury
+105,173,Yes,No,Fog,Wet,Side impact,Sedan,5,Good,Good,79,45,0.1980089771834856,None,Afternoon,High,180,Severe Injury
+134,39,No,Yes,Clear,Icy,Side impact,SUV,15,Worn out,Good,22,0,0.11238103155903137,Phone,Afternoon,Medium,353,Minor Injury
+74,12,Yes,Yes,Clear,Dry,Rear-end,SUV,7,Worn out,Worn out,79,46,0.15293201239293724,None,Afternoon,Medium,310,Minor Injury
+131,76,Yes,Yes,Clear,Uneven,Rear-end,Sedan,2,Good,Good,59,16,0.071724965533873,Phone,Afternoon,Low,98,Minor Injury
+181,131,Yes,Yes,Clear,Wet,Rear-end,SUV,9,Good,Good,18,31,0.15775170484268086,None,Morning,High,74,Severe Injury
+61,174,No,Yes,Clear,Dry,Head-on,Truck,14,Good,Worn out,25,25,0.1004839069124039,Phone,Afternoon,High,168,Minor Injury
+23,64,Yes,Yes,Rain,Dry,Rear-end,SUV,7,Good,Good,77,29,0.04821695783548501,Drowsiness,Night,Medium,85,Minor Injury
+127,164,Yes,Yes,Clear,Dry,Side impact,Truck,16,Worn out,Good,44,23,0.042512855515999995,None,Night,Medium,475,Minor Injury
+78,87,No,No,Clear,Dry,Rear-end,SUV,5,Good,Good,42,6,0.05251022626759849,None,Afternoon,Medium,367,Minor Injury
+126,1,Yes,Yes,Clear,Wet,Rear-end,SUV,5,Good,Worn out,20,11,0.022252317863817896,None,Afternoon,Medium,419,Minor Injury
+149,24,Yes,Yes,Clear,Dry,Head-on,SUV,3,Good,Good,72,38,0.15372781627384713,None,Afternoon,Low,313,Minor Injury
+154,55,No,Yes,Rain,Dry,Rear-end,Sedan,7,Good,Good,54,1,0.01611834387134097,None,Morning,Low,59,Minor Injury
+175,5,No,No,Rain,Icy,Rollover,Sedan,11,Good,Good,34,43,0.10769000919067491,Phone,Morning,Medium,163,Severe Injury
+174,24,Yes,Yes,Rain,Dry,Head-on,Truck,10,Worn out,Good,50,42,0.03126345311736254,None,Afternoon,Low,83,Severe Injury
+48,71,Yes,Yes,Rain,Wet,Head-on,SUV,19,Good,Worn out,78,13,0.12590671835378403,None,Afternoon,Medium,100,Minor Injury
+91,98,Yes,Yes,Clear,Dry,Head-on,Sedan,0,Good,Worn out,49,12,0.1175835870607918,None,Morning,Medium,336,Minor Injury
+113,171,No,Yes,Clear,Wet,Side impact,SUV,16,Good,Good,60,49,0.16324995470449524,Other,Afternoon,Medium,59,Severe Injury
+132,75,No,Yes,Clear,Wet,Rear-end,Sedan,16,Good,Good,66,21,0.11814130669400298,Phone,Night,Medium,439,Minor Injury
+74,128,Yes,Yes,Clear,Dry,Head-on,SUV,8,Good,Good,56,15,0.006003297326117818,Phone,Afternoon,High,414,Fatal
+197,129,Yes,Yes,Clear,Dry,Side impact,Truck,8,Good,Good,46,12,0.19428273220617787,Other,Afternoon,Low,407,Fatal
+150,30,No,Yes,Snow,Dry,Side impact,Motorcycle,14,Good,Good,66,3,0.02130422088380104,Other,Night,High,358,Minor Injury
+167,147,Yes,Yes,Clear,Dry,Side impact,SUV,1,Worn out,Good,38,22,0.10477846008207098,None,Night,Low,22,Minor Injury
+109,47,No,No,Clear,Icy,Head-on,Sedan,15,Good,Good,74,19,0.06577146326040517,None,Morning,High,332,Severe Injury
+186,9,No,Yes,Clear,Wet,Side impact,SUV,9,Good,Good,62,44,0.19788173146133126,Phone,Afternoon,High,375,Minor Injury
+55,64,No,Yes,Snow,Dry,Side impact,SUV,16,Good,Good,42,11,0.11000163248979085,Drowsiness,Afternoon,High,497,Fatal
+121,117,No,No,Fog,Icy,Rear-end,Sedan,15,Good,Good,31,29,0.042527616188920404,Phone,Afternoon,Medium,295,Minor Injury
+137,95,Yes,No,Clear,Icy,Head-on,Sedan,13,Good,Worn out,65,1,0.031818134293842906,Drowsiness,Morning,Medium,80,Minor Injury
+117,98,Yes,Yes,Snow,Dry,Rear-end,SUV,17,Good,Good,35,20,0.024423938841991413,Phone,Afternoon,Low,178,Minor Injury
+73,49,Yes,Yes,Clear,Dry,Side impact,Sedan,17,Worn out,Good,56,26,0.1367562047004582,Other,Afternoon,Medium,29,Minor Injury
+72,62,No,Yes,Rain,Dry,Rear-end,Sedan,2,Worn out,Good,46,36,0.014007244068258241,None,Morning,Low,327,Minor Injury
+92,19,Yes,Yes,Clear,Dry,Side impact,Sedan,9,Good,Good,29,8,0.04038597617254141,Phone,Morning,Low,166,Minor Injury
+31,145,Yes,Yes,Snow,Dry,Side impact,Truck,13,Good,Good,67,22,0.09301419661231776,None,Morning,Low,99,Minor Injury
+185,46,Yes,No,Rain,Dry,Side impact,Sedan,6,Good,Worn out,34,35,0.0005444620649397214,None,Afternoon,High,230,Minor Injury
+56,170,Yes,Yes,Snow,Dry,Head-on,SUV,15,Good,Good,20,30,0.009954753872082535,Phone,Afternoon,Medium,182,Severe Injury
+57,139,No,Yes,Rain,Dry,Rear-end,SUV,8,Good,Good,79,44,0.07796825613820467,Other,Night,Medium,219,Severe Injury
+194,27,Yes,Yes,Rain,Wet,Head-on,SUV,19,Worn out,Worn out,52,12,0.1779457760148847,None,Afternoon,Low,151,Minor Injury
+183,16,Yes,Yes,Rain,Wet,Head-on,Sedan,13,Good,Good,37,9,0.15486149428991533,None,Afternoon,Medium,65,Minor Injury
+148,70,Yes,Yes,Rain,Dry,Rollover,SUV,4,Good,Good,34,3,0.03162784243199173,Drowsiness,Morning,Medium,390,Minor Injury
+138,64,Yes,Yes,Clear,Dry,Side impact,Truck,5,Worn out,Good,69,20,0.06440912833315882,None,Afternoon,Medium,85,Minor Injury
+67,115,Yes,Yes,Clear,Wet,Side impact,Sedan,3,Good,Good,44,11,0.02951600168445232,None,Morning,Low,371,Minor Injury
+175,67,Yes,Yes,Clear,Uneven,Rear-end,Motorcycle,4,Good,Worn out,21,23,0.011357158054076244,None,Afternoon,Low,206,Minor Injury
+36,72,Yes,Yes,Rain,Dry,Head-on,Truck,2,Good,Good,41,48,0.1951860441491413,None,Afternoon,Low,335,Minor Injury
+67,77,No,Yes,Clear,Dry,Side impact,Sedan,18,Good,Worn out,59,24,0.055610784721065266,Drowsiness,Night,Medium,80,Fatal
+43,126,Yes,No,Clear,Dry,Head-on,SUV,18,Good,Good,21,43,0.19441103550760264,Drowsiness,Afternoon,High,458,Minor Injury
+93,13,No,Yes,Rain,Dry,Rear-end,Sedan,0,Worn out,Good,33,20,0.07954445883296644,None,Afternoon,Medium,398,Fatal
+132,61,Yes,Yes,Clear,Dry,Side impact,Truck,18,Good,Good,72,33,0.03122012585364811,Other,Night,Low,384,Minor Injury
+100,107,Yes,Yes,Clear,Dry,Side impact,Truck,19,Worn out,Worn out,32,16,0.15319608248363645,Other,Afternoon,Medium,283,Minor Injury
+197,109,Yes,Yes,Clear,Dry,Side impact,Sedan,11,Good,Good,54,48,0.14268456568905893,None,Afternoon,Medium,96,Severe Injury
+161,44,Yes,Yes,Clear,Dry,Head-on,Sedan,11,Good,Good,66,32,0.01599106614204604,Drowsiness,Night,Low,475,Severe Injury
+165,95,No,Yes,Fog,Dry,Rear-end,SUV,13,Worn out,Good,53,2,0.1948344176526502,Other,Morning,Low,355,Minor Injury
+187,104,No,Yes,Rain,Dry,Head-on,Truck,9,Good,Good,49,28,0.07644942189973164,Other,Morning,Medium,37,Minor Injury
+95,132,No,Yes,Clear,Icy,Head-on,Truck,13,Good,Good,60,31,0.06445020788738907,None,Afternoon,Low,437,Minor Injury
+123,41,Yes,Yes,Clear,Dry,Side impact,SUV,6,Good,Worn out,34,42,0.07157643208667815,Phone,Afternoon,High,454,Minor Injury
+190,16,Yes,Yes,Clear,Dry,Side impact,SUV,12,Good,Good,29,0,0.09259436262124772,Phone,Afternoon,Medium,45,Minor Injury
+109,118,Yes,Yes,Rain,Dry,Rollover,SUV,12,Good,Good,75,34,0.0832748973134862,Other,Afternoon,Medium,444,Minor Injury
+150,0,Yes,Yes,Clear,Dry,Side impact,Truck,8,Good,Worn out,21,21,0.11029746122821976,None,Afternoon,Medium,442,Minor Injury
+155,76,No,Yes,Rain,Dry,Rear-end,SUV,6,Good,Good,64,41,0.1682331485036583,None,Afternoon,Medium,239,Minor Injury
+158,157,No,Yes,Clear,Dry,Head-on,Truck,19,Good,Good,44,12,0.10278185015539343,None,Night,Medium,365,Fatal
+91,83,Yes,Yes,Clear,Dry,Head-on,Motorcycle,3,Good,Worn out,26,10,0.0494082144344544,None,Afternoon,Medium,211,Severe Injury
+174,145,Yes,No,Rain,Dry,Side impact,Sedan,2,Good,Good,64,41,0.07213217135281105,None,Night,Medium,490,Minor Injury
+102,168,No,Yes,Rain,Dry,Side impact,Truck,5,Good,Worn out,40,35,0.12788063918194223,Drowsiness,Night,Medium,449,Severe Injury
+100,115,No,Yes,Fog,Dry,Side impact,Sedan,4,Good,Worn out,61,8,0.11432570350588747,None,Afternoon,Medium,206,Fatal
+199,114,Yes,Yes,Clear,Dry,Rear-end,SUV,2,Good,Worn out,47,5,0.062049972211665555,None,Afternoon,High,395,Minor Injury
+127,165,Yes,Yes,Rain,Dry,Side impact,Truck,3,Worn out,Good,72,6,0.19147058996981992,None,Morning,Medium,87,Severe Injury
+167,11,Yes,Yes,Clear,Dry,Head-on,Sedan,13,Good,Worn out,31,0,0.11195160255333103,Other,Afternoon,Low,200,Minor Injury
+136,61,No,Yes,Clear,Wet,Rollover,SUV,17,Worn out,Good,44,15,0.04560272115615034,None,Night,High,422,Severe Injury
+152,84,Yes,Yes,Clear,Icy,Side impact,Motorcycle,14,Good,Good,65,36,0.07235716893668338,None,Morning,Low,11,Minor Injury
+22,170,Yes,Yes,Clear,Wet,Head-on,Sedan,0,Good,Good,21,44,0.06666235342121023,None,Afternoon,High,298,Minor Injury
+95,69,No,No,Clear,Dry,Side impact,Sedan,10,Good,Good,28,23,0.08320406281091303,None,Morning,High,110,Severe Injury
+118,134,No,Yes,Clear,Dry,Rear-end,Sedan,4,Good,Good,56,16,0.1428438262159394,None,Afternoon,Medium,273,Severe Injury
+59,132,Yes,Yes,Rain,Dry,Rear-end,Truck,0,Good,Good,20,8,0.13413179754685137,None,Afternoon,High,89,Minor Injury
+31,156,Yes,No,Rain,Wet,Rear-end,SUV,15,Good,Good,69,5,0.1787059311738756,Phone,Night,Medium,342,Severe Injury
+173,97,No,Yes,Clear,Wet,Side impact,SUV,17,Good,Good,76,30,0.086743761179007,None,Night,High,406,Minor Injury
+83,158,Yes,Yes,Rain,Icy,Rear-end,Sedan,18,Worn out,Good,56,5,0.14814077607836315,Phone,Morning,High,131,Minor Injury
+37,165,No,Yes,Rain,Dry,Rear-end,Sedan,13,Good,Good,19,37,0.05716570813533992,None,Afternoon,Medium,272,Fatal
+138,116,Yes,Yes,Clear,Dry,Head-on,SUV,11,Good,Worn out,39,27,0.15862855980995139,None,Afternoon,Low,211,Minor Injury
+88,71,No,Yes,Clear,Dry,Head-on,Sedan,6,Good,Good,56,13,0.011900605476782023,None,Morning,Low,375,Minor Injury
+109,31,No,Yes,Rain,Dry,Rear-end,Motorcycle,15,Good,Good,62,8,0.08811536100975584,None,Afternoon,Medium,251,Minor Injury
+180,55,No,Yes,Rain,Dry,Rollover,SUV,11,Good,Good,24,22,0.04560517546696648,Phone,Morning,Medium,305,Severe Injury
+195,142,Yes,Yes,Clear,Wet,Head-on,SUV,2,Good,Good,48,30,0.16909838084284642,None,Night,Low,12,Severe Injury
+38,154,Yes,No,Clear,Dry,Rear-end,SUV,3,Good,Good,25,17,0.1614753759928382,Phone,Morning,Low,455,Minor Injury
+162,91,Yes,Yes,Fog,Dry,Head-on,SUV,5,Good,Good,48,10,0.037620741968119466,None,Afternoon,Medium,142,Minor Injury
+61,75,Yes,Yes,Clear,Dry,Rear-end,SUV,15,Good,Good,38,29,0.0829785547637157,None,Morning,Low,453,Minor Injury
+34,9,Yes,Yes,Clear,Wet,Rear-end,SUV,2,Good,Good,39,16,0.1329792413765783,Drowsiness,Night,Low,375,Severe Injury
+36,22,Yes,No,Clear,Dry,Side impact,Motorcycle,12,Worn out,Good,27,4,0.03605093911322328,Drowsiness,Afternoon,High,53,Minor Injury
+154,89,Yes,No,Clear,Dry,Head-on,SUV,4,Worn out,Good,68,36,0.025787929909011444,Phone,Night,High,331,Minor Injury
+64,49,No,No,Snow,Dry,Head-on,SUV,19,Good,Good,74,9,0.04754556720647745,None,Afternoon,Medium,32,Severe Injury
+154,28,Yes,Yes,Clear,Dry,Rear-end,Truck,9,Worn out,Worn out,76,43,0.004157110197354497,None,Morning,Low,329,Fatal
+176,162,Yes,Yes,Clear,Dry,Rear-end,SUV,19,Good,Worn out,60,0,0.05911261137215443,None,Morning,Medium,412,Minor Injury
+156,4,Yes,Yes,Snow,Dry,Rollover,SUV,2,Good,Good,42,6,0.029266066095426105,None,Morning,Medium,333,Minor Injury
+71,68,Yes,Yes,Clear,Dry,Side impact,Motorcycle,0,Good,Good,44,32,0.1989858969880084,None,Afternoon,Low,341,Minor Injury
+56,52,Yes,Yes,Fog,Dry,Side impact,SUV,19,Good,Good,38,18,0.023864216453884524,Drowsiness,Night,Medium,440,Minor Injury
+135,68,Yes,Yes,Rain,Wet,Head-on,SUV,12,Good,Good,36,5,0.09824484330226804,None,Night,Medium,472,Minor Injury
+33,119,Yes,Yes,Clear,Dry,Rollover,SUV,17,Good,Worn out,52,38,0.12130106391310835,Phone,Afternoon,High,224,Minor Injury
+58,91,Yes,Yes,Clear,Icy,Rear-end,Motorcycle,12,Worn out,Good,61,23,0.17194511952456934,None,Afternoon,Medium,410,Minor Injury
+129,46,Yes,Yes,Rain,Dry,Rear-end,Sedan,15,Good,Good,65,44,0.1404530737934551,None,Afternoon,High,400,Minor Injury
+24,28,Yes,No,Clear,Dry,Rear-end,Motorcycle,13,Good,Good,67,25,0.08157805191344183,None,Afternoon,Medium,477,Minor Injury
+190,61,Yes,Yes,Clear,Dry,Rear-end,Truck,18,Worn out,Good,65,13,0.10350592959127523,None,Afternoon,Medium,326,Severe Injury
+89,52,No,Yes,Clear,Dry,Head-on,Sedan,14,Good,Good,27,46,0.19402061596059633,Other,Night,Low,176,Minor Injury
+192,91,No,Yes,Clear,Dry,Head-on,Sedan,19,Good,Good,32,2,0.12108235034492668,None,Afternoon,Medium,169,Minor Injury
+194,25,No,Yes,Clear,Dry,Head-on,SUV,19,Worn out,Good,34,6,0.07921168213880525,Other,Morning,High,312,Severe Injury
+139,6,Yes,Yes,Fog,Dry,Head-on,SUV,17,Good,Good,37,41,0.0012620595730711505,None,Morning,Medium,104,Severe Injury
+69,111,Yes,Yes,Clear,Dry,Side impact,Sedan,17,Worn out,Good,61,13,0.055627661310361634,None,Afternoon,Medium,485,Minor Injury
+159,93,Yes,No,Clear,Wet,Rollover,Sedan,12,Good,Good,22,25,0.129798717740858,None,Morning,Medium,413,Minor Injury
+111,173,Yes,No,Clear,Dry,Head-on,Truck,4,Good,Good,48,0,0.05248452284620719,Phone,Afternoon,Medium,242,Severe Injury
+82,17,No,Yes,Clear,Dry,Side impact,SUV,15,Worn out,Good,27,11,0.03203964248400033,None,Night,High,396,Minor Injury
+43,14,No,Yes,Snow,Icy,Side impact,Sedan,19,Good,Good,70,48,0.07108115766113794,None,Afternoon,Low,224,Minor Injury
+29,51,No,Yes,Clear,Wet,Side impact,Motorcycle,16,Good,Good,52,25,0.15068760047924587,None,Afternoon,Medium,103,Minor Injury
+86,45,No,Yes,Rain,Dry,Side impact,SUV,0,Good,Good,67,44,0.028295592889612076,None,Morning,Medium,463,Minor Injury
+107,49,Yes,Yes,Rain,Dry,Side impact,Sedan,7,Good,Good,60,17,0.13907858068269444,None,Afternoon,Medium,144,Severe Injury
+57,94,Yes,Yes,Snow,Dry,Rear-end,Sedan,15,Worn out,Good,45,31,0.05966813438382364,None,Morning,Medium,182,Minor Injury
+132,21,No,Yes,Snow,Dry,Head-on,Sedan,19,Good,Good,32,7,0.03652188329502242,Drowsiness,Morning,Medium,210,Minor Injury
+189,86,Yes,No,Clear,Uneven,Head-on,Sedan,5,Good,Worn out,63,25,0.040868536617858456,None,Afternoon,Low,449,Severe Injury
+25,115,No,Yes,Clear,Dry,Rear-end,Sedan,2,Good,Good,70,31,0.08942370786541126,Drowsiness,Afternoon,Medium,448,Minor Injury
+191,144,No,Yes,Clear,Wet,Head-on,SUV,8,Good,Good,70,8,0.11294353962178766,None,Morning,Medium,225,Minor Injury
+49,13,Yes,Yes,Rain,Dry,Rear-end,SUV,15,Good,Good,55,37,0.1201869004828053,None,Night,Medium,178,Minor Injury
+89,62,Yes,Yes,Snow,Dry,Rear-end,SUV,6,Good,Good,77,19,0.04049793851841339,None,Afternoon,High,458,Minor Injury
+162,143,Yes,Yes,Rain,Dry,Rear-end,Truck,15,Good,Good,30,15,0.1475489101626053,None,Morning,Medium,33,Minor Injury
+87,0,No,No,Snow,Icy,Side impact,SUV,1,Good,Good,77,22,0.019528698215155793,None,Morning,Medium,58,Minor Injury
+72,166,Yes,Yes,Rain,Dry,Head-on,Truck,9,Worn out,Good,43,31,0.04062073393076147,None,Night,Medium,177,Minor Injury
+193,44,Yes,Yes,Clear,Dry,Rollover,Sedan,17,Good,Good,48,29,0.07342618699590846,None,Afternoon,Medium,313,Fatal
+154,103,No,No,Clear,Dry,Rear-end,Truck,6,Good,Good,39,23,0.0870242169299337,None,Afternoon,Medium,10,Severe Injury
+180,23,No,Yes,Clear,Icy,Rollover,SUV,19,Good,Good,28,2,0.06219810604628693,Phone,Morning,High,458,Severe Injury
+76,90,No,Yes,Rain,Wet,Side impact,SUV,4,Good,Good,29,0,0.14651822130571832,Phone,Morning,High,32,Minor Injury
+115,111,No,Yes,Fog,Wet,Rollover,Sedan,6,Good,Good,77,41,0.1728867576899752,Other,Night,Medium,183,Severe Injury
+152,65,Yes,Yes,Clear,Dry,Head-on,Truck,12,Good,Good,37,38,0.10626484553499652,Drowsiness,Afternoon,Low,124,Minor Injury
+49,155,Yes,Yes,Clear,Dry,Side impact,Sedan,0,Worn out,Good,69,11,0.09527093257826524,None,Night,High,173,Minor Injury
+47,76,No,Yes,Clear,Dry,Rollover,Sedan,4,Good,Worn out,48,19,0.17577400312695687,None,Night,Low,10,Minor Injury
+133,160,No,No,Clear,Dry,Rear-end,Sedan,18,Good,Worn out,32,21,0.13335130030307085,Phone,Afternoon,Medium,121,Minor Injury
+33,119,No,Yes,Clear,Icy,Head-on,SUV,2,Worn out,Good,66,36,0.13165719274345875,None,Night,Medium,165,Minor Injury
+73,152,No,Yes,Clear,Dry,Head-on,Truck,5,Worn out,Good,45,48,0.18951575977321916,None,Morning,Medium,329,Minor Injury
+80,104,Yes,Yes,Rain,Dry,Rear-end,SUV,9,Good,Worn out,65,38,0.10784956545020774,None,Night,Medium,213,Minor Injury
+87,115,No,No,Clear,Icy,Side impact,Sedan,19,Good,Good,23,24,0.18486396721559004,Phone,Morning,Medium,435,Minor Injury
+47,103,No,Yes,Clear,Dry,Side impact,SUV,9,Good,Good,50,41,0.05495280887320369,None,Night,Low,445,Severe Injury
+76,113,Yes,Yes,Snow,Dry,Head-on,Sedan,19,Good,Worn out,47,28,0.055506000875080445,None,Morning,Medium,12,Minor Injury
+175,155,Yes,Yes,Clear,Dry,Side impact,SUV,11,Good,Worn out,57,19,0.006883548891303337,None,Afternoon,Medium,197,Minor Injury
+161,28,Yes,Yes,Snow,Dry,Side impact,SUV,5,Worn out,Good,62,9,0.199073191832445,None,Morning,Medium,14,Minor Injury
+28,5,Yes,Yes,Clear,Dry,Head-on,SUV,2,Good,Good,42,28,0.057631626083876536,None,Morning,Medium,329,Minor Injury
+81,125,Yes,Yes,Clear,Dry,Rollover,Sedan,3,Good,Good,79,19,0.0392953384470963,Phone,Night,High,497,Minor Injury
+125,142,Yes,No,Rain,Dry,Rollover,Truck,16,Good,Good,25,26,0.08071542357907023,None,Morning,Medium,78,Minor Injury
+115,169,No,Yes,Clear,Dry,Side impact,Sedan,17,Good,Worn out,57,5,0.1799400174091161,None,Night,Low,343,Minor Injury
+165,89,Yes,No,Snow,Dry,Rear-end,Sedan,4,Good,Good,39,40,0.07974119829680378,None,Morning,High,350,Severe Injury
+108,47,Yes,Yes,Clear,Dry,Rear-end,Sedan,10,Good,Good,76,22,0.1347586449485551,Phone,Morning,Low,454,Minor Injury
+117,88,Yes,Yes,Clear,Dry,Head-on,Sedan,15,Good,Good,48,26,0.08667986002614032,None,Night,High,333,Minor Injury
+54,124,Yes,Yes,Rain,Icy,Rear-end,SUV,1,Good,Good,71,48,0.029738240427761145,None,Night,Medium,338,Minor Injury
+102,166,Yes,Yes,Snow,Wet,Rear-end,Sedan,10,Good,Good,23,30,0.07545401178677186,Other,Night,High,345,Minor Injury
+41,47,Yes,Yes,Snow,Wet,Side impact,Sedan,8,Good,Good,30,4,0.022766057074398785,None,Afternoon,Medium,348,Severe Injury
+103,105,No,Yes,Rain,Dry,Side impact,SUV,4,Good,Good,34,13,0.02594640193899398,None,Afternoon,Low,61,Minor Injury
+24,15,No,Yes,Fog,Dry,Head-on,Truck,4,Good,Good,67,6,0.10892373066665313,None,Afternoon,High,211,Minor Injury
+112,49,Yes,Yes,Rain,Dry,Head-on,Sedan,19,Good,Good,66,7,0.04693074783809488,None,Afternoon,Low,146,Minor Injury
+91,67,Yes,Yes,Fog,Dry,Head-on,SUV,14,Good,Good,33,41,0.008350720917106891,Drowsiness,Morning,Low,240,Minor Injury
+67,124,Yes,Yes,Clear,Dry,Head-on,SUV,1,Good,Good,37,44,0.1389037525142731,None,Afternoon,Medium,495,Fatal
+107,139,Yes,No,Clear,Wet,Side impact,SUV,3,Good,Good,41,13,0.08326746481370469,None,Afternoon,Low,496,Severe Injury
+185,87,Yes,Yes,Snow,Dry,Rollover,SUV,12,Good,Good,41,26,0.11480835359818616,None,Afternoon,High,79,Minor Injury
+66,6,Yes,Yes,Snow,Wet,Side impact,SUV,1,Good,Worn out,29,16,0.0877962264275447,None,Afternoon,Medium,367,Minor Injury
+56,150,Yes,Yes,Clear,Dry,Rear-end,Motorcycle,7,Worn out,Good,64,2,0.034111188816749884,Phone,Afternoon,Medium,19,Severe Injury
+168,46,Yes,No,Snow,Wet,Side impact,SUV,12,Good,Good,22,11,0.14051045739837933,None,Morning,Medium,420,Minor Injury
+179,146,Yes,Yes,Clear,Dry,Side impact,Sedan,8,Good,Good,74,13,0.18464917298645828,Other,Night,High,235,Minor Injury
+172,14,No,No,Clear,Dry,Side impact,Truck,0,Worn out,Worn out,20,42,0.08485141445624356,None,Night,High,327,Minor Injury
+35,99,Yes,Yes,Snow,Dry,Head-on,Sedan,18,Good,Good,52,36,0.12115890246509116,None,Afternoon,Low,215,Minor Injury
+46,2,Yes,Yes,Snow,Dry,Rear-end,Sedan,11,Good,Good,33,32,0.11769258485673635,Phone,Afternoon,Low,257,Minor Injury
+149,67,Yes,Yes,Clear,Dry,Head-on,Sedan,0,Good,Good,76,34,0.07255938332207937,None,Afternoon,High,79,Minor Injury
+165,140,No,Yes,Snow,Dry,Rollover,Sedan,4,Good,Good,45,11,0.11066543979673381,None,Morning,Medium,359,Minor Injury
+38,7,No,Yes,Clear,Dry,Head-on,Sedan,12,Worn out,Good,25,0,0.1830404518259004,None,Afternoon,Low,161,Minor Injury
+156,165,Yes,Yes,Rain,Dry,Side impact,Truck,0,Good,Good,55,16,0.14348642751268645,None,Morning,Low,278,Minor Injury
+174,32,Yes,No,Rain,Dry,Side impact,Motorcycle,6,Worn out,Good,19,26,0.06607248767955887,None,Morning,Medium,209,Minor Injury
+143,54,Yes,No,Clear,Dry,Side impact,Sedan,4,Good,Good,40,37,0.0558617254696479,None,Afternoon,High,120,Severe Injury
+64,91,Yes,Yes,Rain,Dry,Head-on,Truck,18,Good,Good,36,41,0.027017499691494074,Phone,Night,Low,82,Minor Injury
+46,43,No,Yes,Rain,Icy,Side impact,Sedan,1,Good,Good,55,18,0.19624313780841202,None,Morning,Medium,261,Minor Injury
+152,161,No,Yes,Rain,Wet,Rear-end,Sedan,19,Worn out,Good,69,26,0.040592574106624896,Other,Night,Medium,176,Minor Injury
+134,11,Yes,Yes,Clear,Wet,Side impact,Truck,11,Good,Good,46,16,0.03190010338088167,None,Afternoon,Medium,311,Severe Injury
+71,120,Yes,No,Fog,Dry,Head-on,SUV,0,Worn out,Good,20,48,0.1130652039218637,None,Night,Low,380,Minor Injury
+105,3,No,No,Fog,Wet,Rollover,Sedan,7,Worn out,Worn out,52,6,0.19657373061021288,None,Afternoon,Low,208,Minor Injury
+144,100,Yes,No,Clear,Icy,Head-on,Truck,15,Good,Good,56,49,0.1063511191979778,Phone,Morning,High,247,Severe Injury
+111,87,Yes,Yes,Clear,Icy,Rollover,Truck,0,Good,Good,68,19,0.1630582178568134,Phone,Afternoon,Medium,419,Severe Injury
+22,92,No,Yes,Rain,Dry,Side impact,Sedan,5,Good,Good,53,33,0.15639270099990737,None,Night,Medium,463,Minor Injury
+44,124,No,Yes,Snow,Dry,Side impact,SUV,0,Good,Good,57,41,0.1945605948855926,Phone,Night,Medium,125,Minor Injury
+90,44,Yes,Yes,Clear,Dry,Side impact,Truck,2,Good,Good,55,8,0.014228700531364958,None,Night,High,186,Minor Injury
+43,101,Yes,Yes,Rain,Dry,Head-on,Truck,16,Good,Worn out,55,18,0.0609753523250332,None,Afternoon,Medium,331,Minor Injury
+117,27,No,Yes,Clear,Dry,Side impact,SUV,18,Good,Good,46,21,0.17360813772948153,None,Morning,Medium,298,Minor Injury
+123,150,Yes,Yes,Snow,Dry,Rollover,Truck,12,Good,Worn out,42,15,0.08188702999973613,None,Morning,Medium,47,Minor Injury
+164,14,Yes,No,Fog,Wet,Side impact,Sedan,10,Good,Worn out,26,17,0.16570086599025746,None,Morning,Medium,468,Minor Injury
+48,37,No,Yes,Clear,Dry,Side impact,Sedan,6,Good,Good,21,11,0.06348552661966596,None,Afternoon,High,292,Severe Injury
+108,105,No,Yes,Snow,Wet,Head-on,Motorcycle,15,Good,Good,55,37,0.1907464130488537,None,Night,Medium,411,Minor Injury
+97,99,Yes,No,Clear,Dry,Side impact,Sedan,10,Good,Good,79,10,0.09833771243306617,None,Afternoon,High,131,Severe Injury
+152,105,Yes,No,Clear,Icy,Side impact,SUV,3,Good,Good,71,0,0.012481668269852732,None,Morning,Low,436,Minor Injury
+164,160,Yes,Yes,Clear,Wet,Side impact,Sedan,12,Good,Good,54,2,0.0733045148085556,None,Morning,Low,275,Minor Injury
+116,104,Yes,Yes,Clear,Uneven,Side impact,Truck,16,Worn out,Good,72,28,0.05545495966609429,None,Night,Medium,322,Severe Injury
+44,21,Yes,Yes,Clear,Dry,Rear-end,Truck,4,Good,Good,74,10,0.07246298755699161,None,Night,Medium,276,Minor Injury
+103,32,Yes,Yes,Clear,Dry,Side impact,Sedan,18,Good,Good,30,31,0.10192769753455092,None,Morning,Low,461,Minor Injury
+123,15,No,Yes,Clear,Dry,Side impact,Sedan,1,Good,Good,58,22,0.030784026557244618,Other,Morning,Medium,310,Minor Injury
+113,104,Yes,Yes,Rain,Dry,Side impact,Truck,19,Worn out,Good,48,19,0.09453109855376983,None,Morning,Medium,314,Minor Injury
+22,81,Yes,No,Rain,Dry,Side impact,SUV,18,Good,Worn out,50,43,0.046111290423061974,None,Night,Medium,122,Severe Injury
+51,83,Yes,Yes,Clear,Dry,Rear-end,Sedan,5,Good,Worn out,67,20,0.10496025512074157,None,Afternoon,Medium,445,Minor Injury
+145,150,No,Yes,Rain,Dry,Side impact,Truck,15,Good,Worn out,68,17,0.06230258977382457,None,Afternoon,High,30,Minor Injury
+109,69,Yes,Yes,Snow,Dry,Head-on,Motorcycle,8,Good,Good,20,45,0.0721661909943645,Phone,Morning,Low,202,Minor Injury
+69,78,Yes,Yes,Rain,Dry,Side impact,SUV,2,Good,Good,56,40,0.05109252430942293,None,Afternoon,Medium,74,Severe Injury
+135,88,Yes,No,Snow,Dry,Side impact,Sedan,18,Good,Good,41,39,0.03536709277808197,None,Night,Medium,368,Minor Injury
+123,176,Yes,Yes,Rain,Dry,Rear-end,Sedan,19,Worn out,Good,49,14,0.1613517118103496,Phone,Afternoon,Medium,132,Minor Injury
+106,27,No,Yes,Rain,Dry,Rear-end,SUV,19,Good,Worn out,72,3,0.06894477248035483,Drowsiness,Morning,High,327,Minor Injury
+164,133,Yes,No,Clear,Dry,Side impact,Sedan,10,Good,Good,42,40,0.08614676647762294,None,Night,Medium,487,Minor Injury
+133,57,Yes,No,Clear,Dry,Head-on,Sedan,9,Good,Good,36,6,0.11530677036369696,None,Night,Medium,347,Minor Injury
+83,9,Yes,No,Fog,Dry,Rollover,Truck,2,Good,Good,23,44,0.13837985753575777,None,Afternoon,High,41,Severe Injury
+103,128,Yes,Yes,Snow,Uneven,Side impact,Sedan,18,Good,Good,66,19,0.16546679513204787,Other,Afternoon,Medium,491,Minor Injury
+23,116,Yes,Yes,Clear,Icy,Rear-end,Sedan,13,Good,Good,57,12,0.034220257305033044,None,Morning,Medium,154,Fatal
+173,74,Yes,Yes,Clear,Dry,Rear-end,SUV,5,Good,Good,55,31,0.13277039165096005,Phone,Morning,Medium,244,Minor Injury
+72,39,Yes,Yes,Clear,Dry,Side impact,SUV,4,Good,Worn out,31,4,0.05610913829023705,None,Afternoon,Medium,448,Minor Injury
+51,70,Yes,No,Rain,Dry,Side impact,Sedan,8,Good,Worn out,48,10,0.026666707854349193,None,Afternoon,Medium,75,Minor Injury
+194,105,Yes,Yes,Fog,Dry,Side impact,Sedan,11,Worn out,Good,22,45,0.05038919324566789,Phone,Afternoon,High,444,Severe Injury
+58,2,No,Yes,Clear,Dry,Side impact,Sedan,2,Worn out,Worn out,40,16,0.09293028939018733,Phone,Night,Medium,223,Severe Injury
+46,154,Yes,Yes,Clear,Dry,Rear-end,Sedan,2,Good,Good,57,18,0.00986204257969161,None,Afternoon,Medium,171,Fatal
+80,54,Yes,No,Fog,Dry,Side impact,Truck,16,Good,Worn out,68,42,0.1751940284728608,None,Morning,Low,105,Minor Injury
+164,138,Yes,Yes,Clear,Icy,Rear-end,Sedan,13,Good,Worn out,38,14,0.0611149295712929,None,Night,High,49,Severe Injury
+177,162,Yes,Yes,Rain,Dry,Side impact,Sedan,10,Good,Good,37,31,0.16766394460098144,None,Night,Low,357,Minor Injury
+56,67,Yes,Yes,Clear,Dry,Side impact,Truck,11,Good,Good,22,32,0.1902432374218473,Phone,Morning,Medium,316,Minor Injury
+31,69,Yes,Yes,Clear,Dry,Rear-end,Sedan,11,Good,Good,23,28,0.02805338635147088,None,Night,High,10,Minor Injury
+76,8,Yes,Yes,Snow,Uneven,Rear-end,Sedan,3,Good,Worn out,26,28,0.1639611091717643,None,Afternoon,Low,421,Minor Injury
+39,93,Yes,Yes,Clear,Wet,Rear-end,SUV,13,Good,Good,20,44,0.18206883263654106,Phone,Afternoon,High,496,Severe Injury
+192,175,Yes,Yes,Clear,Dry,Side impact,SUV,3,Worn out,Good,77,25,0.013381127611877553,None,Afternoon,Medium,56,Minor Injury
+24,78,Yes,Yes,Snow,Dry,Head-on,Sedan,12,Good,Good,39,21,0.1464750440345786,Drowsiness,Morning,High,415,Minor Injury
+178,148,No,Yes,Clear,Wet,Side impact,SUV,17,Good,Good,51,14,0.06354744421620162,Phone,Afternoon,Medium,75,Minor Injury
+38,23,Yes,Yes,Clear,Wet,Rear-end,SUV,8,Good,Good,67,46,0.10115365564414712,Phone,Night,Medium,170,Minor Injury
+121,161,Yes,Yes,Clear,Dry,Rollover,Sedan,1,Worn out,Good,27,14,0.07507751894833237,Drowsiness,Afternoon,Medium,227,Minor Injury
+112,148,Yes,Yes,Clear,Dry,Side impact,SUV,12,Good,Good,74,9,0.04427004841348536,Drowsiness,Afternoon,High,84,Minor Injury
+62,69,No,Yes,Rain,Dry,Head-on,Motorcycle,15,Worn out,Good,70,16,0.18804389893337248,None,Afternoon,Medium,210,Minor Injury
+101,120,Yes,Yes,Clear,Dry,Rollover,Sedan,12,Good,Worn out,44,8,0.19997900825483572,None,Night,Low,463,Minor Injury
+32,157,Yes,Yes,Clear,Dry,Side impact,SUV,0,Good,Worn out,51,2,0.19820870617229788,Other,Night,Medium,183,Severe Injury
+179,58,No,Yes,Clear,Icy,Rear-end,SUV,9,Worn out,Good,25,10,0.07492944834778688,None,Afternoon,Medium,118,Minor Injury
+68,93,Yes,Yes,Clear,Dry,Head-on,Sedan,12,Good,Good,48,11,0.18658146798709285,Phone,Morning,Low,338,Minor Injury
+161,177,Yes,Yes,Clear,Uneven,Rear-end,SUV,17,Worn out,Good,48,1,0.03010065363457073,None,Afternoon,Low,169,Minor Injury
+135,66,No,Yes,Clear,Icy,Side impact,Truck,10,Good,Good,34,37,0.05596821731614823,Other,Night,Medium,116,Severe Injury
+50,168,Yes,No,Clear,Wet,Side impact,Sedan,3,Good,Worn out,24,20,0.030350183663018917,Phone,Morning,Medium,479,Minor Injury
+20,79,Yes,Yes,Clear,Dry,Head-on,Truck,1,Good,Good,25,25,0.1912162626759447,None,Night,High,215,Severe Injury
+69,150,Yes,No,Clear,Dry,Side impact,Sedan,8,Good,Good,27,44,0.0111692559311527,None,Night,Low,480,Minor Injury
+44,81,Yes,Yes,Rain,Wet,Side impact,Truck,15,Worn out,Good,48,8,0.07687395446863073,Other,Night,High,97,Severe Injury
+167,51,Yes,Yes,Clear,Dry,Rear-end,Sedan,8,Good,Worn out,40,17,0.18174388875544412,None,Afternoon,Low,387,Minor Injury
+27,11,Yes,Yes,Clear,Wet,Side impact,Sedan,5,Good,Good,69,17,0.0204924794675891,None,Morning,Medium,161,Minor Injury
+186,166,No,No,Clear,Dry,Head-on,Motorcycle,6,Good,Worn out,42,20,0.17101431589478228,Phone,Afternoon,Medium,437,Minor Injury
+57,148,Yes,Yes,Clear,Dry,Head-on,Truck,2,Good,Good,20,24,0.1964114460866856,None,Afternoon,Medium,187,Minor Injury
+69,143,Yes,Yes,Clear,Dry,Side impact,Sedan,15,Good,Worn out,77,49,0.19265291612186444,Phone,Afternoon,High,353,Minor Injury
+68,21,Yes,Yes,Fog,Dry,Side impact,Sedan,5,Good,Good,73,45,0.06351448771800237,None,Afternoon,Medium,160,Minor Injury
+198,174,Yes,No,Snow,Dry,Head-on,Truck,14,Good,Worn out,27,31,0.1494206467057982,Drowsiness,Night,High,193,Severe Injury
+145,75,No,Yes,Clear,Dry,Rear-end,Sedan,19,Good,Good,59,24,0.005101400540932555,None,Afternoon,Medium,431,Minor Injury
+74,177,Yes,Yes,Rain,Wet,Head-on,Sedan,13,Good,Worn out,49,19,0.10702881116121772,None,Morning,High,256,Minor Injury
+121,24,Yes,Yes,Snow,Wet,Side impact,Sedan,16,Good,Good,74,19,0.10333894847914056,None,Afternoon,High,222,Minor Injury
+118,47,Yes,Yes,Clear,Wet,Head-on,Sedan,19,Good,Good,38,36,0.16376064878131427,None,Afternoon,Low,182,Minor Injury
+120,112,Yes,Yes,Fog,Dry,Side impact,SUV,18,Good,Good,60,24,0.17715398154532982,Drowsiness,Night,Medium,298,Minor Injury
+192,151,Yes,No,Rain,Icy,Rear-end,Sedan,19,Good,Good,28,5,0.0843632937617323,None,Night,Low,386,Minor Injury
+198,170,No,Yes,Clear,Icy,Rear-end,SUV,6,Worn out,Worn out,42,4,0.08075349940243436,None,Afternoon,High,186,Minor Injury
+149,118,No,Yes,Clear,Icy,Rear-end,Sedan,10,Good,Good,70,47,0.18895097667872374,None,Night,Medium,401,Fatal
+145,98,Yes,Yes,Clear,Dry,Head-on,Truck,17,Good,Worn out,36,5,0.12531525645608607,None,Night,Low,495,Minor Injury
+123,3,No,Yes,Clear,Dry,Head-on,Motorcycle,11,Good,Good,57,29,0.03469829145271963,None,Afternoon,Low,431,Fatal
+125,118,Yes,Yes,Fog,Dry,Rear-end,SUV,4,Good,Good,53,38,0.12438557185554931,Other,Afternoon,High,413,Minor Injury
+39,14,No,Yes,Clear,Dry,Side impact,Truck,3,Good,Good,48,29,0.15184266756016437,None,Morning,High,340,Minor Injury
+171,10,Yes,Yes,Rain,Dry,Side impact,SUV,2,Good,Good,66,49,0.03982619189283829,None,Afternoon,High,136,Minor Injury
+27,101,Yes,Yes,Clear,Dry,Rear-end,SUV,1,Good,Good,74,23,0.1581146220817391,None,Morning,Low,283,Minor Injury
+76,110,Yes,Yes,Clear,Dry,Side impact,SUV,15,Good,Good,49,21,0.014443882802264852,Other,Morning,Low,74,Severe Injury
+136,162,Yes,Yes,Clear,Dry,Side impact,SUV,9,Good,Good,62,7,0.08073367635328088,None,Morning,Medium,188,Minor Injury
+56,26,Yes,Yes,Clear,Dry,Head-on,SUV,15,Good,Good,55,16,0.008743010888782066,Other,Afternoon,Low,18,Minor Injury
+73,157,Yes,No,Rain,Wet,Side impact,SUV,7,Good,Good,65,5,0.10457929595237399,Other,Afternoon,Low,240,Minor Injury
+119,160,Yes,Yes,Fog,Dry,Side impact,Sedan,16,Good,Good,19,47,0.12801953131724828,None,Afternoon,High,111,Minor Injury
+122,104,Yes,Yes,Clear,Wet,Head-on,Truck,16,Worn out,Good,43,7,0.023644856574488782,None,Morning,Low,23,Minor Injury
+64,108,Yes,No,Rain,Dry,Rollover,Sedan,2,Good,Worn out,65,12,0.12992206024424738,Phone,Night,Medium,465,Minor Injury
+155,29,No,Yes,Clear,Wet,Head-on,Sedan,4,Good,Good,38,20,0.062103351055163736,Other,Night,Medium,243,Severe Injury
+35,154,No,Yes,Rain,Icy,Side impact,Sedan,5,Good,Good,40,43,0.17548146104638712,Phone,Night,Medium,464,Minor Injury
+134,15,Yes,Yes,Clear,Dry,Side impact,Sedan,16,Good,Good,64,14,0.06321256907457158,Other,Afternoon,Medium,405,Minor Injury
+188,30,No,Yes,Rain,Dry,Rollover,Sedan,18,Good,Good,48,32,0.035269152172484455,None,Afternoon,Medium,475,Severe Injury
+134,108,Yes,Yes,Rain,Dry,Head-on,Truck,17,Worn out,Good,69,5,0.045347650748828676,None,Night,Medium,103,Minor Injury
+173,122,Yes,Yes,Rain,Dry,Head-on,SUV,14,Good,Worn out,62,23,0.08646888665378022,None,Afternoon,Low,399,Minor Injury
+179,28,No,Yes,Clear,Dry,Head-on,Sedan,6,Good,Worn out,33,44,0.0027661761419845335,None,Morning,Medium,93,Severe Injury
+86,0,Yes,Yes,Clear,Uneven,Side impact,Sedan,9,Good,Good,72,21,0.17102525454681886,None,Night,Low,498,Minor Injury
+42,26,Yes,Yes,Clear,Dry,Rear-end,Sedan,19,Worn out,Good,26,23,0.0533671387015777,Drowsiness,Morning,High,200,Minor Injury
+131,178,Yes,Yes,Snow,Uneven,Rear-end,SUV,1,Good,Good,29,17,0.07983188685966836,None,Night,High,255,Minor Injury
+195,41,Yes,Yes,Rain,Dry,Side impact,Truck,3,Good,Good,29,42,0.07659499873184675,None,Night,Low,179,Minor Injury
+194,149,No,Yes,Clear,Dry,Side impact,Sedan,5,Good,Good,62,4,0.11223791862462613,None,Afternoon,High,231,Minor Injury
+124,80,No,Yes,Clear,Dry,Side impact,Sedan,4,Good,Good,45,36,0.058794210351436504,None,Morning,High,80,Severe Injury
+41,153,Yes,Yes,Snow,Dry,Head-on,Truck,11,Good,Worn out,45,2,0.19626215136174438,None,Morning,Medium,336,Minor Injury
+106,101,Yes,No,Snow,Dry,Rear-end,Sedan,16,Good,Good,22,21,0.06432549632453691,None,Night,Medium,98,Minor Injury
+21,133,Yes,No,Rain,Dry,Rollover,SUV,6,Good,Worn out,59,34,0.025328503876750966,Phone,Morning,Low,152,Minor Injury
+55,144,No,Yes,Fog,Dry,Rear-end,Sedan,11,Good,Good,49,13,0.07233214304762207,None,Night,Low,95,Minor Injury
+115,92,No,Yes,Rain,Dry,Rear-end,Truck,9,Good,Good,34,24,0.19326870787980513,Drowsiness,Afternoon,Medium,340,Minor Injury
+111,61,Yes,Yes,Rain,Dry,Side impact,Sedan,10,Good,Good,34,18,0.009406982828384947,Drowsiness,Afternoon,High,23,Minor Injury
+112,13,Yes,Yes,Clear,Dry,Head-on,Truck,13,Good,Good,41,8,0.15068279651162844,Phone,Morning,Low,148,Minor Injury
+152,51,No,No,Snow,Dry,Rollover,Sedan,14,Good,Worn out,47,1,0.15948275881395596,Drowsiness,Night,Medium,431,Minor Injury
+31,111,No,No,Snow,Dry,Rear-end,Sedan,16,Good,Good,52,44,0.1574965823387278,Drowsiness,Afternoon,Medium,131,Severe Injury
+31,143,Yes,Yes,Rain,Wet,Head-on,Truck,19,Good,Good,18,15,0.11299368065088261,None,Afternoon,Low,354,Severe Injury
+63,155,Yes,Yes,Rain,Dry,Rollover,SUV,1,Good,Good,63,33,0.19908254072406006,None,Night,Medium,437,Minor Injury
+27,14,Yes,Yes,Clear,Dry,Rollover,Sedan,16,Good,Worn out,23,11,0.13372037070846077,Phone,Morning,Medium,484,Minor Injury
+172,121,Yes,Yes,Snow,Dry,Head-on,SUV,7,Good,Worn out,79,37,0.1368148002710578,Phone,Afternoon,Medium,141,Minor Injury
+167,78,Yes,Yes,Rain,Dry,Side impact,Motorcycle,1,Good,Worn out,37,11,0.041347009640286925,Other,Night,Low,427,Minor Injury
+139,143,Yes,Yes,Clear,Dry,Rollover,Sedan,1,Worn out,Good,65,28,0.06298904910087975,Phone,Night,High,409,Severe Injury
+168,123,No,Yes,Clear,Wet,Rear-end,SUV,13,Good,Good,76,6,0.08042196416320464,Phone,Afternoon,High,300,Minor Injury
+158,19,Yes,Yes,Clear,Wet,Rear-end,Motorcycle,17,Worn out,Good,61,25,9.507789891571861e-06,None,Morning,Low,478,Minor Injury
+105,51,Yes,Yes,Clear,Dry,Rear-end,Motorcycle,1,Good,Good,39,40,0.19820064568097345,None,Morning,Medium,361,Minor Injury
+106,139,Yes,No,Snow,Dry,Side impact,Truck,2,Good,Good,69,49,0.08596306692164098,None,Afternoon,High,95,Minor Injury
+56,36,Yes,Yes,Clear,Wet,Rollover,Sedan,2,Good,Good,34,22,0.05163985814364043,None,Morning,Medium,62,Minor Injury
+65,88,Yes,Yes,Fog,Wet,Head-on,Sedan,0,Good,Good,63,9,0.03758359896674051,None,Night,Medium,135,Minor Injury
+100,22,No,Yes,Clear,Dry,Side impact,Sedan,13,Good,Worn out,31,18,0.05289325442932145,Other,Morning,Low,281,Fatal
+74,70,Yes,Yes,Clear,Wet,Side impact,Sedan,18,Good,Good,37,10,0.059969869209375484,None,Night,Medium,269,Minor Injury
+190,34,Yes,No,Clear,Uneven,Rear-end,Truck,14,Good,Good,68,12,0.10592687529388621,None,Afternoon,Medium,125,Minor Injury
+20,165,Yes,Yes,Snow,Dry,Rollover,Motorcycle,13,Good,Good,72,33,0.14277774591296988,Phone,Afternoon,Medium,87,Severe Injury
+134,52,No,No,Rain,Icy,Rear-end,Truck,17,Good,Worn out,65,17,0.19831139492807398,Phone,Afternoon,Medium,168,Minor Injury
+22,165,Yes,Yes,Fog,Uneven,Rear-end,SUV,14,Good,Good,46,18,0.128535757655099,None,Morning,Medium,145,Severe Injury
+78,31,Yes,Yes,Rain,Dry,Side impact,Sedan,16,Good,Good,78,34,0.1417920991670181,Phone,Afternoon,Medium,325,Minor Injury
+178,66,No,Yes,Snow,Dry,Rollover,Truck,16,Good,Worn out,61,3,0.1725756423667268,Other,Morning,High,216,Severe Injury
+159,9,Yes,Yes,Clear,Uneven,Rollover,SUV,9,Good,Worn out,62,4,0.17034974227268,None,Night,Medium,363,Minor Injury
+167,172,Yes,Yes,Clear,Dry,Head-on,Sedan,13,Good,Good,33,24,0.10811349163680893,None,Afternoon,Low,439,Minor Injury
+64,172,Yes,Yes,Fog,Wet,Side impact,Truck,18,Good,Worn out,19,1,0.15424518967801037,Other,Night,Low,78,Minor Injury
+35,51,No,Yes,Clear,Dry,Head-on,Sedan,7,Good,Good,55,31,0.09696196388837391,Phone,Afternoon,Medium,270,Minor Injury
+52,177,Yes,Yes,Snow,Dry,Rear-end,Motorcycle,3,Worn out,Good,22,17,0.1379350018904254,Phone,Afternoon,High,329,Severe Injury
+33,97,No,Yes,Snow,Icy,Rear-end,SUV,6,Good,Good,20,16,0.1358364039267308,None,Afternoon,Low,381,Minor Injury
+84,146,Yes,Yes,Rain,Dry,Rollover,Sedan,9,Worn out,Good,40,9,0.1811172304493608,None,Night,Medium,268,Minor Injury
+150,153,Yes,Yes,Clear,Dry,Head-on,Truck,12,Good,Good,39,1,0.1450118969057321,None,Afternoon,Low,208,Minor Injury
+149,93,Yes,Yes,Rain,Wet,Side impact,Motorcycle,9,Good,Good,46,11,0.024174134806201765,None,Morning,Medium,385,Minor Injury
+185,159,Yes,Yes,Clear,Icy,Rollover,Sedan,2,Good,Good,55,28,0.18079022493440203,Phone,Night,Medium,452,Severe Injury
+168,87,Yes,Yes,Clear,Dry,Rear-end,SUV,16,Good,Good,77,20,0.03721679673940024,None,Afternoon,Medium,457,Minor Injury
+192,16,Yes,Yes,Clear,Dry,Rollover,Motorcycle,15,Good,Good,55,44,0.18065812987907556,None,Morning,Low,345,Minor Injury
+130,124,No,Yes,Clear,Dry,Side impact,SUV,16,Good,Good,68,43,0.06683269070173892,None,Night,Medium,412,Minor Injury
+80,54,Yes,Yes,Rain,Dry,Side impact,Sedan,8,Good,Good,74,15,0.03886510094198135,Other,Morning,Medium,161,Minor Injury
+102,118,Yes,Yes,Clear,Icy,Side impact,Truck,13,Good,Good,41,44,0.15732003844808518,None,Morning,Medium,211,Minor Injury
+161,47,Yes,Yes,Clear,Dry,Rear-end,Truck,15,Good,Good,54,32,0.13210132962121324,None,Night,High,366,Minor Injury
+70,135,Yes,Yes,Clear,Dry,Rear-end,Sedan,7,Good,Worn out,46,47,0.06476583902439663,None,Night,Low,454,Minor Injury
+50,29,No,No,Clear,Wet,Rear-end,SUV,7,Good,Good,37,14,0.04002847834429038,Phone,Afternoon,Low,456,Minor Injury
+46,62,No,Yes,Clear,Dry,Rollover,Sedan,18,Good,Worn out,73,12,0.0027005907941531682,None,Night,Medium,114,Minor Injury
+191,121,Yes,Yes,Clear,Uneven,Head-on,SUV,8,Good,Good,58,5,0.06630188353369602,None,Morning,Medium,97,Minor Injury
+109,99,Yes,No,Rain,Dry,Side impact,Truck,3,Good,Good,39,47,0.17386869297048327,None,Morning,Low,188,Severe Injury
+56,102,Yes,No,Clear,Dry,Head-on,SUV,9,Good,Worn out,23,30,0.09847545632756412,None,Afternoon,Low,494,Minor Injury
+112,165,Yes,Yes,Clear,Icy,Rear-end,Sedan,13,Good,Good,75,11,0.09670933529161528,None,Afternoon,Medium,245,Minor Injury
+123,132,Yes,No,Rain,Dry,Side impact,Sedan,2,Worn out,Good,36,2,0.14816685072929897,Other,Morning,Medium,404,Severe Injury
+105,46,Yes,No,Rain,Dry,Side impact,Truck,4,Good,Good,60,12,0.11887309555329761,None,Night,High,370,Severe Injury
+163,25,Yes,Yes,Rain,Dry,Head-on,Sedan,2,Good,Worn out,54,2,0.004316902164574077,Phone,Afternoon,Low,442,Minor Injury
+128,144,No,Yes,Clear,Dry,Side impact,Sedan,16,Good,Good,43,35,0.07753638100287648,None,Afternoon,High,321,Severe Injury
+47,104,No,Yes,Rain,Dry,Rear-end,Sedan,2,Good,Good,38,45,0.17398396278511094,Other,Night,Medium,333,Minor Injury
+144,148,Yes,Yes,Clear,Uneven,Side impact,Motorcycle,11,Good,Good,41,24,0.001020061071742684,Phone,Afternoon,Low,169,Severe Injury
+84,123,No,Yes,Clear,Uneven,Rear-end,Sedan,8,Good,Worn out,64,7,0.09335815442334348,None,Afternoon,Medium,128,Severe Injury
+132,15,Yes,Yes,Clear,Uneven,Side impact,Truck,11,Good,Good,78,29,0.012718384012791151,Phone,Afternoon,High,45,Minor Injury
+157,40,No,Yes,Clear,Dry,Side impact,Motorcycle,3,Good,Good,69,10,0.1565003670869365,None,Night,High,308,Minor Injury
+145,144,Yes,No,Rain,Uneven,Side impact,Sedan,11,Good,Worn out,60,12,0.017905948707063104,Phone,Night,Medium,15,Minor Injury
+162,41,No,Yes,Clear,Wet,Head-on,Sedan,19,Good,Good,65,28,0.015038856801835166,None,Afternoon,Medium,90,Minor Injury
+162,26,No,Yes,Clear,Dry,Rear-end,Sedan,12,Good,Good,64,30,0.02826609657576178,None,Morning,Low,270,Severe Injury
+166,151,Yes,Yes,Rain,Dry,Head-on,Truck,17,Good,Good,32,27,0.0879630516775613,Phone,Morning,Low,308,Fatal
+197,157,Yes,Yes,Clear,Icy,Side impact,Sedan,3,Good,Good,64,27,0.12636044733606516,Phone,Afternoon,High,130,Minor Injury
+124,140,Yes,Yes,Clear,Dry,Side impact,Motorcycle,16,Good,Good,52,15,0.034243487303156406,None,Morning,Low,166,Minor Injury
+41,14,No,Yes,Clear,Wet,Head-on,Sedan,1,Good,Good,59,42,0.09682080807704874,Drowsiness,Afternoon,Medium,152,Fatal
+65,107,No,Yes,Snow,Dry,Head-on,SUV,12,Good,Good,35,26,0.02473376813156125,None,Afternoon,Medium,126,Minor Injury
+167,96,No,Yes,Clear,Dry,Head-on,Sedan,19,Good,Worn out,19,5,0.07669412309635795,None,Morning,Medium,23,Severe Injury
+89,14,No,Yes,Snow,Dry,Head-on,SUV,13,Good,Good,34,14,0.18152030773733624,Other,Afternoon,Low,24,Minor Injury
+104,25,Yes,Yes,Snow,Dry,Rollover,Sedan,18,Good,Good,24,8,0.013727366723241152,Other,Morning,Medium,79,Minor Injury
+181,66,No,Yes,Clear,Icy,Head-on,SUV,14,Good,Good,44,9,0.02667743599328387,Phone,Afternoon,Medium,133,Fatal
+195,174,No,Yes,Clear,Dry,Rear-end,Motorcycle,5,Good,Good,40,31,0.18168059734363773,None,Morning,Medium,454,Minor Injury
+161,178,No,Yes,Clear,Dry,Side impact,SUV,7,Worn out,Good,71,18,0.1353826126057159,Other,Night,Medium,437,Severe Injury
+70,179,Yes,Yes,Fog,Dry,Rear-end,Sedan,1,Good,Worn out,73,11,0.178498784469919,None,Night,Medium,338,Severe Injury
+110,92,Yes,Yes,Clear,Icy,Rear-end,Motorcycle,16,Good,Good,25,32,0.14578175762985698,None,Night,Low,200,Minor Injury
+164,165,Yes,Yes,Clear,Dry,Rear-end,Sedan,7,Good,Good,27,5,0.05898502524031497,None,Afternoon,Medium,293,Severe Injury
+124,96,Yes,Yes,Fog,Wet,Side impact,SUV,2,Good,Good,52,11,0.08142144583754705,Phone,Morning,Medium,231,Minor Injury
+119,44,Yes,No,Rain,Dry,Side impact,SUV,0,Good,Good,54,30,0.0007619604987292528,Phone,Morning,Low,390,Minor Injury
+198,161,Yes,No,Clear,Dry,Side impact,Motorcycle,3,Good,Good,33,49,0.08806643666995113,None,Morning,Medium,209,Minor Injury
+124,57,Yes,Yes,Rain,Dry,Side impact,Sedan,2,Good,Good,39,0,0.0045784433392508156,None,Night,Low,334,Minor Injury
+157,109,No,Yes,Snow,Dry,Head-on,Sedan,1,Worn out,Worn out,19,19,0.057116787552343506,Phone,Morning,High,19,Minor Injury
+199,5,Yes,No,Clear,Dry,Rear-end,SUV,11,Good,Good,58,2,0.0664704433509437,Phone,Morning,Medium,352,Severe Injury
+130,96,Yes,Yes,Clear,Dry,Rear-end,Truck,15,Good,Good,35,29,0.034719941081257824,None,Morning,Medium,268,Severe Injury
+134,88,Yes,Yes,Rain,Dry,Side impact,Sedan,10,Good,Worn out,75,25,0.01810249441476597,Phone,Night,Medium,142,Minor Injury
+172,106,Yes,No,Clear,Uneven,Side impact,SUV,15,Good,Good,76,48,0.08343924361479947,None,Night,Low,421,Severe Injury
+53,100,No,Yes,Clear,Dry,Head-on,SUV,2,Good,Good,41,31,0.03122238909634394,None,Night,Medium,171,Severe Injury
+170,158,Yes,Yes,Clear,Dry,Rear-end,Sedan,11,Good,Good,30,6,0.0283493693781123,Phone,Morning,Low,181,Minor Injury
+111,128,Yes,Yes,Clear,Wet,Rear-end,Truck,17,Worn out,Good,57,8,0.06224998743705961,None,Morning,Low,319,Severe Injury
+44,41,No,No,Fog,Dry,Side impact,Sedan,15,Good,Good,22,11,0.0456967095980094,Other,Night,Medium,427,Minor Injury
+21,47,Yes,Yes,Fog,Dry,Head-on,Motorcycle,17,Good,Worn out,28,44,0.011459866044816903,None,Morning,Low,219,Minor Injury
+93,38,Yes,Yes,Fog,Dry,Head-on,SUV,7,Good,Good,54,43,0.06338711895996017,Phone,Afternoon,Low,443,Minor Injury
+61,138,Yes,Yes,Clear,Dry,Side impact,Sedan,5,Worn out,Good,49,17,0.12477589289330526,Drowsiness,Morning,High,461,Severe Injury
+182,63,Yes,Yes,Rain,Dry,Side impact,Sedan,4,Worn out,Good,33,3,0.03203098707280827,Phone,Morning,Medium,330,Minor Injury
+22,139,Yes,Yes,Clear,Icy,Head-on,SUV,13,Good,Good,28,30,0.05829887923120698,Drowsiness,Morning,Medium,418,Minor Injury
+195,165,Yes,Yes,Rain,Dry,Rollover,Sedan,7,Good,Good,75,47,0.0792928584654033,None,Night,Medium,476,Minor Injury
+31,14,No,Yes,Clear,Dry,Side impact,Sedan,4,Good,Good,64,32,0.055810479617168986,Phone,Morning,Medium,387,Minor Injury
+174,135,No,No,Rain,Dry,Rear-end,Motorcycle,16,Worn out,Good,61,37,0.08119265978830592,Drowsiness,Morning,Low,468,Minor Injury
+82,124,Yes,Yes,Clear,Dry,Rear-end,Motorcycle,2,Good,Good,41,37,0.09670928771146203,None,Afternoon,Medium,154,Minor Injury
+73,42,Yes,Yes,Clear,Dry,Side impact,Sedan,11,Good,Good,58,40,0.05339574892492232,None,Morning,Medium,269,Minor Injury
+65,90,Yes,No,Rain,Dry,Rear-end,Motorcycle,13,Good,Good,78,44,0.1800345048423249,None,Night,Medium,329,Minor Injury
+67,77,Yes,Yes,Clear,Dry,Side impact,Motorcycle,17,Worn out,Good,25,22,0.14415030324161876,None,Afternoon,High,254,Minor Injury
+44,66,Yes,Yes,Clear,Dry,Side impact,Motorcycle,13,Good,Good,77,30,0.15481996031505377,None,Morning,Medium,142,Minor Injury
+75,113,Yes,Yes,Rain,Dry,Rollover,Truck,5,Good,Good,44,6,0.12597725713624852,None,Afternoon,Medium,236,Severe Injury
+171,102,No,Yes,Clear,Wet,Head-on,SUV,19,Good,Good,60,12,0.1649820361637614,None,Afternoon,Low,25,Minor Injury
+78,81,Yes,No,Rain,Dry,Rear-end,Sedan,1,Good,Good,61,42,0.009369239293668686,None,Afternoon,Low,257,Minor Injury
+37,21,Yes,Yes,Clear,Dry,Head-on,Truck,2,Good,Worn out,77,19,0.17689059551079284,Phone,Afternoon,Low,437,Minor Injury
+108,87,No,Yes,Rain,Dry,Rollover,Sedan,14,Good,Good,75,43,0.17447108446667725,Other,Afternoon,Medium,392,Minor Injury
+57,142,No,Yes,Clear,Dry,Side impact,Truck,1,Good,Worn out,39,39,0.04510348667478475,None,Afternoon,Medium,388,Minor Injury
+166,56,Yes,Yes,Clear,Dry,Rear-end,Truck,17,Good,Good,65,49,0.039842074777201586,None,Night,Medium,496,Minor Injury
+66,173,Yes,No,Clear,Dry,Head-on,Truck,10,Good,Good,49,2,0.07115732472233967,Phone,Night,Low,292,Minor Injury
+89,86,No,Yes,Clear,Dry,Head-on,SUV,8,Good,Good,47,10,0.1873028284459101,None,Night,Medium,234,Severe Injury
+159,104,Yes,No,Clear,Dry,Head-on,SUV,2,Good,Good,28,16,0.007088092464314456,None,Afternoon,Medium,259,Severe Injury
+163,131,Yes,No,Rain,Icy,Side impact,Sedan,16,Good,Good,75,9,0.04247304041475868,Drowsiness,Night,Medium,268,Severe Injury
+101,51,Yes,Yes,Clear,Icy,Rear-end,SUV,8,Good,Good,65,18,0.19266358531828526,None,Afternoon,High,431,Minor Injury
+170,48,No,Yes,Snow,Dry,Rear-end,SUV,3,Good,Good,41,8,0.14127908132089564,Phone,Night,Medium,11,Severe Injury
+125,32,Yes,Yes,Clear,Dry,Side impact,SUV,18,Good,Good,59,41,0.06759156407298648,Phone,Afternoon,Low,16,Minor Injury
+110,99,Yes,Yes,Rain,Dry,Head-on,SUV,18,Good,Good,74,6,0.11405476532699302,Phone,Morning,Medium,324,Minor Injury
+169,33,Yes,No,Clear,Icy,Rear-end,Motorcycle,10,Good,Good,18,37,0.06088791984283107,Drowsiness,Night,Low,364,Minor Injury
+87,24,No,Yes,Rain,Dry,Side impact,Truck,7,Good,Good,41,25,0.003233831884883043,None,Afternoon,Medium,382,Severe Injury
+108,121,Yes,No,Rain,Dry,Rear-end,SUV,0,Good,Good,77,27,0.0857106939496235,None,Morning,Low,217,Fatal
+82,139,No,No,Clear,Icy,Side impact,Sedan,2,Good,Good,60,42,0.19325774475875854,None,Afternoon,Medium,163,Minor Injury
+30,29,Yes,No,Clear,Dry,Rear-end,Sedan,4,Good,Worn out,24,41,0.16756226001817834,None,Afternoon,Medium,466,Minor Injury
+190,82,Yes,Yes,Clear,Dry,Side impact,Motorcycle,19,Worn out,Good,72,17,0.0015477968182842083,None,Morning,Low,418,Severe Injury
+134,174,Yes,Yes,Rain,Dry,Rear-end,SUV,11,Good,Good,19,3,0.13276007402752085,Other,Night,Medium,98,Severe Injury
+41,90,No,Yes,Clear,Dry,Side impact,Truck,12,Worn out,Good,46,17,0.07508585569529216,Phone,Afternoon,High,231,Minor Injury
+132,152,Yes,Yes,Rain,Wet,Rear-end,SUV,12,Good,Good,61,3,0.06810968788403086,Other,Night,Medium,239,Minor Injury
+21,15,No,Yes,Snow,Dry,Rear-end,Sedan,4,Good,Good,26,45,0.19177311726291577,Drowsiness,Night,Medium,235,Severe Injury
+86,18,Yes,Yes,Clear,Dry,Rollover,Truck,18,Good,Worn out,61,20,0.13979018927394524,None,Night,Medium,270,Minor Injury
+22,24,Yes,Yes,Clear,Wet,Rear-end,SUV,4,Good,Good,31,47,0.1984570696693627,Phone,Afternoon,Low,244,Severe Injury
+163,98,No,No,Clear,Wet,Rear-end,Sedan,13,Good,Good,57,22,0.025173614331045282,None,Night,Medium,416,Minor Injury
+159,97,Yes,Yes,Fog,Dry,Rear-end,Sedan,7,Good,Good,72,32,0.18529877828938357,None,Morning,Low,411,Severe Injury
+137,170,No,Yes,Snow,Wet,Rear-end,SUV,14,Good,Good,71,42,0.14638954132535698,None,Morning,Low,21,Severe Injury
+42,140,Yes,Yes,Clear,Dry,Head-on,SUV,8,Good,Good,73,26,0.18433085597047033,None,Morning,High,22,Severe Injury
+54,163,Yes,Yes,Rain,Dry,Rollover,SUV,19,Good,Worn out,35,35,0.06315174772698853,Phone,Morning,Medium,466,Minor Injury
+140,125,Yes,Yes,Snow,Dry,Rollover,SUV,9,Good,Good,50,4,0.13253465318202406,None,Night,Low,28,Minor Injury
+22,105,Yes,No,Clear,Dry,Side impact,SUV,18,Good,Worn out,64,32,0.13774959504973489,None,Morning,Low,333,Minor Injury
+25,85,Yes,Yes,Clear,Dry,Head-on,SUV,14,Worn out,Good,19,31,0.1592776885001567,Other,Afternoon,Medium,323,Minor Injury
+37,109,Yes,Yes,Rain,Dry,Rear-end,Truck,5,Good,Good,21,1,0.16328489561684856,None,Afternoon,Low,240,Minor Injury
+127,35,No,Yes,Rain,Dry,Rear-end,Sedan,0,Good,Good,60,18,0.011430365423602075,Phone,Night,Low,481,Minor Injury
+101,3,Yes,Yes,Clear,Dry,Rollover,Sedan,15,Worn out,Good,63,40,0.16146778482400445,None,Afternoon,Medium,37,Minor Injury
+115,32,Yes,Yes,Clear,Dry,Rear-end,SUV,6,Good,Good,50,34,0.03976339069967481,Other,Night,Low,15,Minor Injury
+97,109,Yes,Yes,Fog,Dry,Rollover,SUV,10,Good,Good,33,41,0.09101157892047407,None,Afternoon,Low,132,Minor Injury
+149,121,Yes,Yes,Clear,Uneven,Rear-end,SUV,13,Good,Good,58,19,0.13083158603021713,None,Afternoon,Low,76,Minor Injury
+69,64,Yes,Yes,Rain,Dry,Side impact,SUV,12,Good,Good,19,32,0.12477107430220412,Drowsiness,Morning,Medium,117,Minor Injury
+184,11,Yes,Yes,Clear,Dry,Rollover,Sedan,10,Good,Worn out,53,11,0.18803268047490646,None,Morning,Low,242,Minor Injury
+139,100,Yes,Yes,Clear,Dry,Rear-end,Sedan,6,Good,Good,25,40,0.046089197996597456,Drowsiness,Afternoon,Low,172,Severe Injury
+138,22,Yes,Yes,Clear,Dry,Rear-end,Sedan,15,Good,Good,61,30,0.04694614091062865,None,Afternoon,Low,62,Minor Injury
+118,158,Yes,Yes,Clear,Dry,Rollover,SUV,13,Worn out,Good,26,48,0.1325402501548683,None,Morning,Medium,447,Minor Injury
+56,144,No,No,Clear,Dry,Rear-end,SUV,3,Good,Good,19,47,0.10228339887919247,Other,Night,Medium,365,Minor Injury
+43,167,Yes,Yes,Clear,Wet,Rear-end,Sedan,18,Worn out,Worn out,78,45,0.14162505002004913,None,Afternoon,High,157,Severe Injury
+169,7,No,Yes,Fog,Icy,Head-on,Sedan,12,Good,Good,18,32,0.07908356629145881,None,Night,Low,22,Minor Injury
+116,139,Yes,Yes,Rain,Icy,Side impact,SUV,4,Good,Worn out,41,7,0.16607492303934004,Drowsiness,Night,Medium,494,Minor Injury
+48,99,Yes,Yes,Clear,Dry,Side impact,Sedan,12,Good,Good,46,8,0.0012332678215471128,Other,Night,Medium,228,Minor Injury
+64,147,Yes,No,Clear,Dry,Rear-end,Motorcycle,11,Good,Good,48,10,0.03349957743411891,None,Afternoon,Medium,346,Minor Injury
+79,166,Yes,Yes,Snow,Dry,Rear-end,SUV,0,Worn out,Good,43,39,0.00360504662887704,None,Morning,High,208,Minor Injury
+107,160,Yes,Yes,Clear,Icy,Side impact,Sedan,7,Worn out,Good,34,18,0.15458334836249624,Other,Night,Low,265,Severe Injury
+107,70,Yes,Yes,Clear,Dry,Side impact,SUV,13,Good,Worn out,30,45,0.13533290861588926,Drowsiness,Morning,Low,202,Minor Injury
+122,19,Yes,Yes,Clear,Dry,Rollover,SUV,11,Good,Good,54,29,0.05623417424957644,Phone,Afternoon,Low,162,Minor Injury
+110,75,Yes,Yes,Clear,Icy,Rear-end,Motorcycle,10,Good,Good,35,4,0.01234368405255455,Other,Night,Medium,304,Severe Injury
+116,83,Yes,Yes,Snow,Dry,Side impact,Sedan,2,Good,Good,39,9,0.0971064635079375,Phone,Morning,High,352,Minor Injury
+65,71,Yes,Yes,Snow,Dry,Head-on,Truck,10,Good,Good,23,37,0.1702051083356954,None,Morning,Medium,34,Minor Injury
+107,39,Yes,Yes,Clear,Dry,Head-on,SUV,2,Good,Good,78,48,0.09092913855584556,None,Afternoon,Medium,341,Severe Injury
+36,76,Yes,Yes,Clear,Uneven,Head-on,Truck,5,Worn out,Good,18,13,0.11442272775591707,None,Afternoon,High,67,Minor Injury
+88,76,Yes,No,Fog,Dry,Head-on,SUV,1,Good,Good,19,28,0.16395966777995202,Drowsiness,Morning,Medium,446,Minor Injury
+179,79,Yes,No,Fog,Dry,Side impact,Sedan,13,Good,Good,26,15,0.0695443620987054,Phone,Afternoon,High,288,Minor Injury
+112,102,Yes,Yes,Rain,Dry,Side impact,SUV,14,Good,Good,29,12,0.04221822437333944,None,Afternoon,Medium,81,Severe Injury
+84,121,Yes,No,Clear,Dry,Head-on,Truck,15,Good,Worn out,43,38,0.14040590999651253,None,Morning,Low,40,Minor Injury
+115,80,Yes,Yes,Clear,Icy,Side impact,Sedan,19,Good,Good,50,23,0.18243150327529484,Phone,Night,Medium,68,Minor Injury
+199,54,Yes,Yes,Clear,Icy,Rear-end,Sedan,7,Good,Good,56,22,0.17640325212450794,None,Morning,Medium,453,Minor Injury
+132,139,Yes,Yes,Clear,Icy,Rear-end,Sedan,1,Good,Good,36,45,0.12743922293519525,Phone,Afternoon,High,435,Minor Injury
+128,127,No,No,Rain,Wet,Rear-end,Truck,3,Good,Good,43,10,0.029396336899487976,None,Morning,Medium,180,Minor Injury
+126,136,Yes,Yes,Rain,Wet,Side impact,Sedan,5,Good,Good,71,16,0.05470121386115759,Other,Night,Medium,457,Minor Injury
+27,24,Yes,Yes,Rain,Dry,Head-on,Sedan,2,Good,Good,58,38,0.1712938113501717,Drowsiness,Afternoon,Low,412,Severe Injury
+44,143,Yes,No,Clear,Wet,Side impact,SUV,8,Good,Good,67,12,0.18863650606788746,Other,Night,Low,217,Severe Injury
+78,117,Yes,Yes,Rain,Dry,Side impact,Truck,13,Good,Good,55,11,0.17227392966323218,None,Night,Medium,204,Minor Injury
+143,39,No,Yes,Snow,Uneven,Rear-end,Truck,16,Good,Good,35,43,0.017661608587549085,Phone,Afternoon,High,427,Minor Injury
+163,14,Yes,Yes,Clear,Dry,Side impact,Truck,13,Good,Good,53,1,0.1270266268660687,None,Night,Low,289,Minor Injury
+156,45,Yes,Yes,Rain,Wet,Rear-end,Truck,1,Good,Good,52,29,0.057433210405363644,None,Night,Low,480,Minor Injury
+30,145,Yes,Yes,Fog,Dry,Rollover,SUV,0,Worn out,Good,58,4,0.12559502461519506,None,Afternoon,Medium,105,Minor Injury
+147,46,Yes,No,Clear,Dry,Rollover,Motorcycle,14,Good,Good,30,10,0.11200785858655603,Phone,Afternoon,High,362,Severe Injury
+148,50,No,Yes,Rain,Dry,Rear-end,SUV,6,Worn out,Worn out,72,39,0.190589341566897,Drowsiness,Afternoon,Medium,169,Minor Injury
+182,15,Yes,Yes,Rain,Dry,Head-on,Sedan,16,Good,Good,43,42,0.07658395783850183,Other,Night,Medium,418,Minor Injury
+179,74,Yes,Yes,Clear,Dry,Side impact,SUV,4,Good,Good,61,19,0.1789650427947592,Other,Afternoon,Low,49,Severe Injury
+167,175,Yes,Yes,Clear,Dry,Head-on,Sedan,18,Good,Good,73,18,0.14797015024887503,Phone,Morning,Medium,449,Minor Injury
+70,20,No,Yes,Clear,Dry,Side impact,Truck,19,Good,Good,27,4,0.16858705245039524,None,Morning,Medium,96,Severe Injury
+98,46,Yes,Yes,Snow,Dry,Side impact,Sedan,2,Good,Worn out,23,17,0.10153686089708931,Drowsiness,Night,Low,423,Severe Injury
+40,35,No,Yes,Clear,Dry,Side impact,Truck,4,Good,Good,57,43,0.19873666149671423,None,Afternoon,High,22,Severe Injury
+142,157,Yes,Yes,Snow,Dry,Rear-end,Sedan,17,Good,Worn out,38,49,0.1211687824445154,Phone,Afternoon,Medium,63,Minor Injury
+79,177,No,Yes,Clear,Dry,Rear-end,Truck,17,Worn out,Good,28,9,0.14186394222702228,Other,Night,Low,266,Minor Injury
+51,21,Yes,Yes,Snow,Wet,Head-on,SUV,11,Good,Good,46,31,0.15281266067902968,None,Morning,Medium,441,Minor Injury
+181,29,Yes,Yes,Rain,Wet,Side impact,Truck,8,Good,Good,30,15,0.1009132952992211,None,Night,Medium,10,Minor Injury
+159,32,No,Yes,Rain,Dry,Side impact,Sedan,12,Worn out,Good,19,38,0.008997704474998414,None,Night,Medium,58,Minor Injury
+36,165,Yes,No,Clear,Wet,Rollover,Truck,10,Good,Good,39,19,0.014843334544714915,Phone,Morning,Medium,396,Fatal
+74,5,No,Yes,Clear,Dry,Head-on,Truck,17,Good,Worn out,20,26,0.18019161331294264,None,Afternoon,High,497,Minor Injury
+124,119,Yes,Yes,Clear,Dry,Head-on,Sedan,5,Good,Good,52,2,0.1047231378177091,Drowsiness,Morning,Medium,456,Minor Injury
+34,64,No,Yes,Clear,Dry,Head-on,SUV,12,Good,Good,72,12,0.013496636576295386,Other,Afternoon,Medium,19,Severe Injury
+48,71,Yes,Yes,Clear,Dry,Side impact,Motorcycle,6,Good,Worn out,42,49,0.0073467108798957355,Drowsiness,Morning,Low,409,Severe Injury
+102,150,Yes,No,Clear,Dry,Rear-end,Motorcycle,0,Good,Good,35,39,0.06476620457471219,None,Afternoon,Low,109,Minor Injury
+35,163,No,Yes,Clear,Dry,Head-on,Truck,17,Good,Good,78,10,0.046233766004497356,None,Night,High,468,Minor Injury
+60,139,Yes,Yes,Fog,Dry,Rear-end,SUV,18,Good,Good,50,15,0.023640972814873786,None,Morning,Medium,51,Minor Injury
+152,111,Yes,Yes,Rain,Icy,Rear-end,Sedan,3,Good,Good,41,28,0.046303279425601064,None,Morning,High,78,Severe Injury
+197,51,Yes,Yes,Rain,Icy,Rear-end,Sedan,17,Good,Good,20,35,0.14966179960742992,None,Morning,Medium,260,Minor Injury
+95,4,Yes,Yes,Clear,Icy,Rear-end,Sedan,18,Good,Good,74,3,0.11838299557659573,Other,Afternoon,Medium,305,Severe Injury
+127,158,Yes,Yes,Clear,Dry,Rear-end,Sedan,13,Good,Good,52,44,0.03871110965695086,None,Morning,Low,449,Minor Injury
+101,174,No,Yes,Clear,Icy,Side impact,Sedan,13,Good,Good,46,17,0.04736587536702015,None,Night,Low,231,Minor Injury
+66,96,Yes,Yes,Snow,Wet,Side impact,Sedan,16,Good,Worn out,35,36,0.13402598730047358,Drowsiness,Afternoon,Low,450,Minor Injury
+170,121,No,Yes,Rain,Dry,Head-on,Truck,13,Good,Good,37,6,0.04213237375615482,None,Morning,Medium,405,Minor Injury
+191,119,Yes,No,Clear,Dry,Rear-end,Truck,19,Good,Good,63,42,0.0645078694260272,None,Afternoon,High,122,Severe Injury
+175,28,Yes,Yes,Clear,Icy,Side impact,SUV,8,Worn out,Good,54,49,0.05653380605030833,None,Afternoon,Low,415,Minor Injury
+122,19,Yes,Yes,Clear,Dry,Side impact,SUV,0,Good,Good,66,17,0.11676417620454163,None,Night,Medium,97,Minor Injury
+170,95,Yes,No,Clear,Dry,Rear-end,Truck,14,Worn out,Worn out,69,40,0.09559032151293985,Drowsiness,Night,Medium,270,Minor Injury
+42,66,Yes,Yes,Clear,Uneven,Head-on,Truck,12,Good,Worn out,37,20,0.017941435381535698,Phone,Night,Medium,231,Severe Injury
+129,42,No,Yes,Clear,Dry,Rear-end,Sedan,18,Good,Good,64,23,0.10623179026405549,Phone,Morning,Medium,163,Severe Injury
+96,155,Yes,No,Clear,Dry,Rear-end,SUV,12,Good,Good,67,19,0.06227760467585344,Other,Morning,Low,288,Severe Injury
+177,171,No,Yes,Clear,Dry,Rear-end,Truck,15,Good,Good,64,3,0.1112514778318011,None,Afternoon,Medium,173,Minor Injury
+140,69,Yes,No,Clear,Dry,Rear-end,Sedan,17,Good,Good,44,4,0.17834917181442633,None,Morning,Medium,466,Minor Injury
+31,57,Yes,Yes,Snow,Dry,Rear-end,Motorcycle,6,Good,Worn out,73,20,0.08898188194173384,None,Afternoon,Medium,265,Severe Injury
+163,106,Yes,Yes,Clear,Dry,Head-on,Sedan,10,Worn out,Worn out,70,37,0.1319632119576387,None,Afternoon,Medium,82,Minor Injury
+58,153,Yes,Yes,Clear,Dry,Rear-end,Sedan,14,Worn out,Worn out,20,36,0.03739593679848354,None,Night,Medium,22,Minor Injury
+57,169,Yes,Yes,Clear,Dry,Head-on,SUV,11,Good,Good,49,31,0.016520645248060763,None,Night,Medium,194,Minor Injury
+134,136,No,Yes,Clear,Dry,Rear-end,Truck,12,Good,Good,49,17,0.06372759615825474,Other,Morning,High,306,Minor Injury
+107,127,Yes,No,Rain,Dry,Rear-end,Truck,8,Good,Good,49,3,0.17660811875865107,None,Morning,Medium,57,Severe Injury
+112,176,Yes,Yes,Fog,Dry,Rear-end,SUV,14,Good,Good,20,5,0.04403595092343058,None,Afternoon,Low,279,Minor Injury
+89,37,Yes,Yes,Snow,Dry,Head-on,Sedan,16,Good,Good,45,49,0.10351441584954578,None,Afternoon,Medium,487,Fatal
+145,1,Yes,Yes,Clear,Dry,Rear-end,Sedan,14,Good,Good,19,12,0.060687046474213927,None,Night,Medium,167,Minor Injury
+105,99,Yes,Yes,Clear,Dry,Side impact,SUV,9,Good,Good,62,39,0.16089857520451398,None,Afternoon,Medium,417,Minor Injury
+85,31,Yes,Yes,Fog,Wet,Rear-end,Sedan,19,Good,Good,79,42,0.17154239232988644,Phone,Night,Medium,178,Minor Injury
+43,53,No,Yes,Snow,Dry,Side impact,Sedan,17,Good,Good,74,37,0.19115311960579254,Phone,Afternoon,Medium,466,Minor Injury
+47,72,Yes,Yes,Clear,Dry,Rollover,Sedan,1,Good,Good,55,29,0.03566747451982535,None,Afternoon,High,216,Severe Injury
+106,160,Yes,Yes,Clear,Dry,Head-on,Sedan,9,Good,Good,77,17,0.16626634126980971,None,Night,Low,203,Minor Injury
+99,138,Yes,Yes,Clear,Dry,Side impact,SUV,4,Good,Good,52,43,0.0752073209275993,None,Night,High,168,Minor Injury
+80,114,Yes,Yes,Snow,Wet,Side impact,Sedan,13,Good,Good,60,6,0.01619545049994906,Phone,Afternoon,Medium,188,Minor Injury
+105,44,No,Yes,Rain,Dry,Head-on,Truck,3,Worn out,Good,55,18,0.1619241329902495,Other,Night,High,182,Minor Injury
+145,152,Yes,Yes,Clear,Dry,Head-on,Sedan,13,Good,Good,27,21,0.1947162650974903,None,Afternoon,Medium,257,Minor Injury
+154,80,Yes,Yes,Clear,Dry,Rear-end,Truck,8,Worn out,Good,63,33,0.07429668802765059,Phone,Afternoon,Medium,94,Minor Injury
+38,139,No,Yes,Rain,Dry,Rollover,Sedan,0,Worn out,Good,53,44,0.11648856172820606,None,Night,Medium,88,Minor Injury
+36,162,No,Yes,Clear,Wet,Rear-end,SUV,3,Good,Good,62,4,0.0782704650034868,Phone,Night,Medium,396,Minor Injury
+138,0,Yes,Yes,Clear,Dry,Head-on,SUV,2,Good,Good,31,16,0.1631948492869849,None,Afternoon,Low,238,Minor Injury
+86,171,Yes,Yes,Clear,Dry,Side impact,Motorcycle,15,Worn out,Worn out,70,4,0.11712319967291984,None,Afternoon,Medium,101,Minor Injury
+83,136,Yes,Yes,Clear,Dry,Rear-end,Truck,19,Good,Good,79,43,0.15817993840969383,None,Night,High,282,Severe Injury
+23,8,Yes,Yes,Clear,Dry,Side impact,Sedan,13,Good,Good,49,9,0.02848944053841749,Drowsiness,Morning,Low,340,Minor Injury
+68,15,Yes,Yes,Clear,Dry,Rollover,Truck,18,Worn out,Good,77,25,0.00666099811608385,None,Night,Medium,295,Minor Injury
+80,146,Yes,Yes,Clear,Dry,Side impact,SUV,15,Good,Good,53,13,0.14405391742898147,Other,Night,Low,132,Minor Injury
+44,98,No,Yes,Rain,Icy,Side impact,Sedan,8,Good,Good,19,19,0.10033915911136937,Other,Morning,Medium,161,Minor Injury
+178,49,No,Yes,Clear,Dry,Side impact,SUV,10,Good,Worn out,31,6,0.05997027082390425,None,Night,Medium,121,Severe Injury
+158,143,Yes,Yes,Rain,Dry,Rear-end,SUV,17,Good,Worn out,26,18,0.11993247689299016,None,Morning,High,410,Severe Injury
+84,121,Yes,Yes,Snow,Wet,Rear-end,SUV,8,Good,Worn out,18,7,0.134476898947215,None,Afternoon,High,12,Minor Injury
+81,139,Yes,Yes,Fog,Dry,Rear-end,SUV,7,Worn out,Good,65,32,0.08290976373234189,Drowsiness,Night,Medium,411,Minor Injury
+162,168,No,Yes,Clear,Dry,Head-on,Sedan,5,Good,Good,52,28,0.041666748872549286,Phone,Afternoon,Low,233,Minor Injury
+55,107,Yes,Yes,Clear,Icy,Head-on,SUV,15,Good,Good,59,29,0.18760080940057816,None,Morning,Medium,256,Minor Injury
+198,155,Yes,Yes,Clear,Dry,Rollover,Truck,7,Good,Good,42,43,0.08346779879955978,None,Afternoon,Medium,387,Minor Injury
+28,90,Yes,Yes,Clear,Wet,Side impact,Sedan,3,Good,Good,78,10,0.01437676327166515,None,Night,Medium,107,Severe Injury
+63,138,No,Yes,Clear,Dry,Rear-end,SUV,14,Good,Good,24,33,0.12651576378071225,None,Afternoon,Low,436,Minor Injury
+78,49,Yes,Yes,Snow,Wet,Head-on,SUV,12,Good,Good,36,45,0.05328974282305357,Phone,Afternoon,High,211,Minor Injury
+58,92,Yes,Yes,Clear,Dry,Side impact,Sedan,1,Good,Worn out,34,29,0.15277953209082928,None,Night,High,21,Fatal
+28,151,Yes,Yes,Clear,Dry,Rear-end,Sedan,1,Good,Good,20,45,0.14791383611401412,None,Morning,Low,135,Minor Injury
+176,170,Yes,Yes,Rain,Dry,Side impact,Truck,6,Good,Worn out,34,15,0.029142041064282576,None,Night,Medium,201,Severe Injury
+195,130,Yes,Yes,Fog,Dry,Side impact,SUV,17,Good,Good,60,38,0.11038413583642133,None,Morning,High,352,Severe Injury
+52,141,Yes,Yes,Fog,Dry,Side impact,Sedan,1,Good,Good,52,25,0.07335092010284198,None,Morning,Low,24,Minor Injury
+55,100,Yes,Yes,Clear,Dry,Side impact,Truck,15,Good,Good,37,7,0.1288664692743102,Other,Afternoon,Medium,222,Minor Injury
+180,15,Yes,Yes,Rain,Icy,Side impact,Truck,10,Worn out,Good,63,14,0.002665953414404676,None,Night,Low,160,Minor Injury
+131,131,Yes,No,Clear,Dry,Rear-end,Sedan,15,Good,Worn out,39,16,0.03953506227903805,Phone,Morning,Low,197,Minor Injury
+156,129,Yes,Yes,Snow,Dry,Side impact,Sedan,16,Good,Good,38,16,0.0492882229574539,None,Morning,Medium,305,Severe Injury
+65,33,No,Yes,Clear,Dry,Rear-end,Motorcycle,4,Good,Worn out,34,47,0.10560199996820703,None,Afternoon,Low,448,Minor Injury
+77,143,Yes,Yes,Clear,Wet,Rear-end,SUV,13,Good,Good,65,11,0.11132075881333062,None,Afternoon,Low,473,Severe Injury
+173,60,No,Yes,Snow,Icy,Side impact,SUV,0,Good,Worn out,63,11,0.19189557592502934,None,Afternoon,Medium,252,Minor Injury
+92,125,Yes,Yes,Clear,Dry,Side impact,SUV,7,Good,Good,32,47,0.08897640722160592,None,Night,High,103,Severe Injury
+135,146,Yes,No,Rain,Dry,Rear-end,Truck,8,Good,Good,61,11,0.13512730494555708,None,Night,Medium,472,Minor Injury
+68,84,Yes,Yes,Clear,Dry,Head-on,Truck,4,Good,Good,50,16,0.013909952529976977,Other,Night,Medium,331,Minor Injury
+180,28,No,Yes,Snow,Dry,Rollover,Sedan,2,Good,Worn out,36,30,0.06215079945671982,Phone,Afternoon,Low,484,Severe Injury
+189,122,Yes,Yes,Clear,Uneven,Head-on,Sedan,12,Worn out,Worn out,69,43,0.12126140848385224,None,Night,Low,276,Minor Injury
+144,168,Yes,Yes,Clear,Dry,Side impact,Sedan,8,Good,Good,31,22,0.15551696291225545,None,Morning,High,57,Severe Injury
+192,103,Yes,Yes,Clear,Dry,Rollover,Truck,4,Good,Good,54,29,0.18026487430332905,None,Night,Medium,435,Minor Injury
+87,71,Yes,No,Clear,Dry,Rear-end,Sedan,11,Good,Good,56,28,0.18828404215211683,None,Night,Medium,145,Minor Injury
+91,30,Yes,No,Clear,Dry,Rear-end,Sedan,1,Good,Worn out,42,15,0.10435028101689636,None,Night,Medium,272,Minor Injury
+84,146,Yes,Yes,Clear,Uneven,Head-on,Truck,15,Worn out,Good,36,9,0.040334849634711324,None,Afternoon,Low,206,Minor Injury
+64,176,Yes,Yes,Clear,Icy,Rear-end,Truck,2,Good,Good,55,18,0.013016630742862323,None,Morning,Medium,87,Minor Injury
+29,17,No,No,Clear,Dry,Side impact,SUV,16,Good,Good,59,46,0.038019213089719894,Drowsiness,Afternoon,High,379,Severe Injury
+147,156,No,Yes,Snow,Dry,Head-on,SUV,18,Worn out,Good,70,15,0.05765469051836572,Phone,Afternoon,Low,330,Minor Injury
+181,161,Yes,Yes,Clear,Dry,Head-on,SUV,14,Good,Good,55,2,0.16239915266260585,Phone,Night,Low,362,Minor Injury
+99,64,Yes,Yes,Clear,Dry,Side impact,Motorcycle,11,Good,Good,58,16,0.024586920518164936,Phone,Morning,Low,354,Minor Injury
+84,81,No,Yes,Rain,Dry,Side impact,Motorcycle,4,Good,Good,65,19,0.15502135290023802,None,Afternoon,Medium,47,Severe Injury
+113,98,Yes,Yes,Clear,Dry,Head-on,Truck,13,Good,Good,72,15,0.140069531005044,Phone,Morning,Low,321,Minor Injury
+41,45,Yes,No,Rain,Dry,Side impact,SUV,0,Good,Worn out,46,20,0.09628034244858052,Phone,Morning,Medium,231,Minor Injury
+129,143,Yes,No,Clear,Dry,Side impact,Sedan,11,Worn out,Good,41,21,0.19439935118867244,None,Night,Medium,170,Minor Injury
+78,45,No,No,Clear,Dry,Side impact,SUV,13,Good,Good,60,15,0.015300803510853545,None,Night,High,142,Severe Injury
+31,136,Yes,Yes,Clear,Wet,Head-on,Truck,9,Worn out,Worn out,68,14,0.09527267214328933,None,Night,High,66,Fatal
+45,106,Yes,Yes,Snow,Dry,Rear-end,Motorcycle,11,Worn out,Good,69,26,0.016578670868807845,None,Afternoon,Medium,351,Minor Injury
+194,23,Yes,Yes,Clear,Dry,Head-on,Truck,15,Good,Worn out,40,40,0.13021734347309452,Phone,Morning,Medium,344,Minor Injury
+178,105,Yes,No,Clear,Dry,Head-on,Sedan,1,Worn out,Good,24,12,0.15013122300007836,Drowsiness,Night,Low,426,Minor Injury
+196,172,No,Yes,Clear,Dry,Side impact,Sedan,3,Good,Worn out,69,46,0.15050732283178128,None,Night,Medium,325,Minor Injury
+61,114,Yes,No,Fog,Dry,Rollover,SUV,8,Good,Good,68,30,0.016431516205065756,Phone,Morning,Low,481,Minor Injury
+49,114,Yes,No,Clear,Dry,Side impact,Sedan,2,Worn out,Good,73,32,0.1659175487287402,None,Morning,Low,355,Severe Injury
+167,36,Yes,Yes,Clear,Dry,Side impact,Sedan,14,Good,Good,21,37,0.1355636879811134,Other,Morning,Medium,138,Minor Injury
+108,31,Yes,Yes,Clear,Dry,Side impact,Sedan,13,Good,Good,41,16,0.12545190716232077,Other,Afternoon,Medium,110,Minor Injury
+170,144,Yes,No,Rain,Wet,Rear-end,SUV,12,Worn out,Good,58,8,0.023540847462497162,Other,Afternoon,Medium,252,Minor Injury
+132,116,No,Yes,Snow,Dry,Rear-end,Truck,12,Worn out,Good,68,28,0.18440915498216215,None,Night,High,38,Severe Injury
+132,52,Yes,Yes,Snow,Dry,Head-on,Sedan,5,Good,Worn out,78,43,0.18155915508420664,None,Afternoon,Medium,356,Fatal
+110,91,No,Yes,Rain,Dry,Side impact,Truck,14,Good,Worn out,27,1,0.1775899353019264,None,Night,Medium,332,Minor Injury
+62,167,Yes,No,Rain,Dry,Rollover,Truck,18,Good,Good,38,28,0.1529352637881807,Other,Afternoon,Low,324,Minor Injury
+152,178,Yes,Yes,Clear,Icy,Head-on,Sedan,18,Good,Good,71,18,0.1793174554367466,None,Morning,High,464,Minor Injury
+131,25,Yes,No,Clear,Dry,Head-on,Sedan,8,Good,Good,78,19,0.07044668023631687,Drowsiness,Afternoon,Low,76,Minor Injury
+33,102,Yes,Yes,Clear,Dry,Head-on,Sedan,7,Good,Good,38,44,0.18593532662316348,None,Morning,Low,301,Minor Injury
+155,84,Yes,Yes,Clear,Dry,Rear-end,Sedan,4,Good,Worn out,34,14,0.03176260568448415,None,Night,Medium,229,Minor Injury
+166,96,Yes,Yes,Clear,Wet,Side impact,Sedan,11,Good,Good,43,36,0.06628580265454535,Other,Afternoon,Medium,331,Minor Injury
+151,22,Yes,Yes,Snow,Dry,Head-on,Truck,9,Good,Good,76,20,0.06981842251203159,None,Morning,Low,116,Minor Injury
+134,164,No,Yes,Clear,Dry,Head-on,Sedan,4,Worn out,Worn out,65,30,0.13701290914188113,None,Night,Low,439,Fatal
+86,136,Yes,No,Clear,Dry,Head-on,Sedan,9,Good,Good,74,19,0.16228291480350598,None,Afternoon,Low,257,Minor Injury
+129,140,Yes,Yes,Clear,Uneven,Head-on,SUV,11,Good,Good,43,7,0.17199034346660066,Other,Morning,Medium,202,Minor Injury
+185,129,Yes,Yes,Clear,Dry,Rollover,Sedan,13,Good,Good,58,28,0.09526781873667536,None,Night,Medium,161,Minor Injury
