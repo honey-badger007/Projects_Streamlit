@@ -15,7 +15,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
-with open("styles.css") as f:
+with open("Project_Car_crashes/styles.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 
