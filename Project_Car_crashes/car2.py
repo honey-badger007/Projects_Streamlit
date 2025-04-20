@@ -66,7 +66,7 @@ if uploaded_file is not None and uploaded_file2 is not None:
     y1 = le.transform(y1)
     
     # Handle class imbalance
-    smote = SMOTE(k_neighbors=1, random_state=42)
+    smote = SMOTE(k_neighbors=3, random_state=42)
     x, y = smote.fit_resample(x, y)
     x1, y1 = smote.fit_resample(x1, y1)
     
