@@ -3,15 +3,15 @@ import numpy as np
 import streamlit as st
 import pickle
 
-with open("styles.css") as f:
+with open("Project_Car_crashes/styles.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # Load the trained model
-XGB = pickle.load(open("XGB_model.pkl", "rb"))
+XGB = pickle.load(open("Project_Car_crashes/XGB_model.pkl", "rb"))
 
 
 # Load the trained model
-RF = pickle.load(open("Random_forest.pkl", "rb"))
+RF = pickle.load(open("Project_Car_crashes/Random_forest.pkl", "rb"))
 
 
 st.title("Car Crash Severity Prediction")
