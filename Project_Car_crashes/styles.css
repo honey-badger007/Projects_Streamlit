@@ -1,0 +1,77 @@
+/* styles.css */
+
+/* Header Customizations */
+h1 {
+    color: #ff6f61; /* Vibrant coral */
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: #0fcaf5; /* Vibrant cyan */
+    font-family: 'Courier New', monospace;
+}
+
+h3 {
+    color: #68e86f; /* Soft green */
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+h4 {
+    color: #eb3030; /* White text */
+    font-family: 'Arial', sans-serif;
+    text-decoration: underline;
+    text-align: left;
+
+
+}
+
+
+
+
+/* Body Text Customizations */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #eeeeee; /* Light text */
+    background-color: #23465a; /* Dark background for better contrast */
+    padding: 10px;
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Button Customizations */
+button {
+    background-color: #d81414; /* Dark background */
+    color: #0fcaf5; /* Cyan text */
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 2px solid #0fcaf5; /* Cyan border */
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease; /* Smooth transition */
+}
+
+button:hover {
+    background-color: #574ae7; /* Cyan background */
+    color: #ffffff; /* White text */
+    border: 2px solid #cac304; /* White border */
+    transition: all 0.3s ease;
+}
+
+/* General Container Glow (Optional) */
+.container {
+    background: linear-gradient(145deg, #f87474, #abaaaa); /* Subtle dark gradient */
+    border-radius: 10px;
+    padding: 20px;
+}
+
+/* Optional Styling for Links */
+a {
+    color: #ff6f61; /* Coral */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ffffff; /* White on hover */
+}
