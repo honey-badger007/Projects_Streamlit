@@ -1,4 +1,4 @@
-import pandas as pd 
+import pandas as pd  
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -424,4 +424,5 @@ if st.button("Generate Missing Data Heatmap"):
     sns.heatmap(data.isnull(), cbar=False, cmap="viridis", ax=ax)
     ax.set_title("Missing Data Heatmap")
     st.pyplot(fig)
+
 
